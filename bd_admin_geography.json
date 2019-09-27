@@ -1,17 +1,14 @@
 {
     "divisions": [
         {
-            "id": 68,
             "name": "ঢাকা",
             "name_en": "Dhaka",
             "districts": [
                 {
-                    "id": 71,
                     "name": "নরসিংদী জেলা",
                     "name_en": "Narsingdi District",
                     "upazilas": [
                         {
-                            "id": 73,
                             "name": "বেলাবো উপজেলা",
                             "name_en": "Belabo Upazilla",
                             "unions": [
@@ -54,7 +51,6 @@
                             ]
                         },
                         {
-                            "id": 74,
                             "name": "মনোহরদী উপজেলা",
                             "name_en": "Monohardi Upazilla",
                             "unions": [
@@ -109,7 +105,6 @@
                             ]
                         },
                         {
-                            "id": 75,
                             "name": "নরসিংদী সদর",
                             "name_en": "Narsingdisadar Upazilla",
                             "unions": [
@@ -172,7 +167,6 @@
                             ]
                         },
                         {
-                            "id": 76,
                             "name": "পলাশ উপজেলা",
                             "name_en": "Palash Upazilla",
                             "unions": [
@@ -195,7 +189,6 @@
                             ]
                         },
                         {
-                            "id": 77,
                             "name": "রায়পুরা উপজেলা",
                             "name_en": "Raipura Upazilla",
                             "unions": [
@@ -290,7 +283,6 @@
                             ]
                         },
                         {
-                            "id": 113,
                             "name": "শিবপুর উপজেলা",
                             "name_en": "Shibpur Upazilla",
                             "unions": [
@@ -335,12 +327,10 @@
                     ]
                 },
                 {
-                    "id": 150,
                     "name": "গাজীপুর জেলা",
                     "name_en": "Gazipur District",
                     "upazilas": [
                         {
-                            "id": 103,
                             "name": "কালীগঞ্জ উপজেলা",
                             "name_en": "Kaliganj Upazilla",
                             "unions": [
@@ -375,7 +365,6 @@
                             ]
                         },
                         {
-                            "id": 152,
                             "name": "কালিয়াকৈর উপজেলা",
                             "name_en": "Kaliakair Upazilla",
                             "unions": [
@@ -418,7 +407,6 @@
                             ]
                         },
                         {
-                            "id": 157,
                             "name": "কাপাসিয়া উপজেলা",
                             "name_en": "Kapasia Upazilla",
                             "unions": [
@@ -469,7 +457,6 @@
                             ]
                         },
                         {
-                            "id": 158,
                             "name": "গাজীপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -508,7 +495,6 @@
                             ]
                         },
                         {
-                            "id": 159,
                             "name": "শ্রীপুর উপজেলা",
                             "name_en": "Sreepur Upazilla",
                             "unions": [
@@ -549,12 +535,10 @@
                     ]
                 },
                 {
-                    "id": 991,
                     "name": "শরীয়তপুর জেলা",
                     "name_en": "Shariatpur District",
                     "upazilas": [
                         {
-                            "id": 3040,
                             "name": "শরিয়তপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -605,7 +589,6 @@
                             ]
                         },
                         {
-                            "id": 3041,
                             "name": "নড়িয়া উপজেলা",
                             "name_en": "Naria Upazilla",
                             "unions": [
@@ -664,7 +647,6 @@
                             ]
                         },
                         {
-                            "id": 3042,
                             "name": "জাজিরা উপজেলা",
                             "name_en": "Zajira Upazilla",
                             "unions": [
@@ -719,7 +701,6 @@
                             ]
                         },
                         {
-                            "id": 3043,
                             "name": "গোসাইরহাট উপজেলা",
                             "name_en": "Gosairhat Upazilla",
                             "unions": [
@@ -758,7 +739,6 @@
                             ]
                         },
                         {
-                            "id": 3044,
                             "name": "ভেদরগঞ্জ উপজেলা",
                             "name_en": "Bhedarganj Upazilla",
                             "unions": [
@@ -817,7 +797,6 @@
                             ]
                         },
                         {
-                            "id": 3045,
                             "name": "ডামুড্যা উপজেলা",
                             "name_en": "Damudya Upazilla",
                             "unions": [
@@ -854,12 +833,10 @@
                     ]
                 },
                 {
-                    "id": 1007,
                     "name": "নারায়ণগঞ্জ জেলা",
                     "name_en": "Narayanganj District",
                     "upazilas": [
                         {
-                            "id": 1173,
                             "name": "আড়াইহাজার উপজেলা",
                             "name_en": "Araihazar Upazilla",
                             "unions": [
@@ -906,7 +883,6 @@
                             ]
                         },
                         {
-                            "id": 1175,
                             "name": "বন্দর উপজেলা",
                             "name_en": "Bandar Upazilla",
                             "unions": [
@@ -933,7 +909,6 @@
                             ]
                         },
                         {
-                            "id": 1178,
                             "name": "নারায়নগঞ্জ সদর উপজেলা",
                             "name_en": "Narayanganjsadar Upazilla",
                             "unions": [
@@ -964,7 +939,6 @@
                             ]
                         },
                         {
-                            "id": 1179,
                             "name": "রূপগঞ্জ উপজেলা",
                             "name_en": "Rupganj Upazilla",
                             "unions": [
@@ -999,7 +973,6 @@
                             ]
                         },
                         {
-                            "id": 1180,
                             "name": "সোনারগাঁ উপজেলা",
                             "name_en": "Sonargaon Upazilla",
                             "unions": [
@@ -1048,12 +1021,10 @@
                     ]
                 },
                 {
-                    "id": 1960,
                     "name": "টাঙ্গাইল জেলা",
                     "name_en": "Tangail District",
                     "upazilas": [
                         {
-                            "id": 1961,
                             "name": "বাসাইল উপজেলা",
                             "name_en": "Basail Upazilla",
                             "unions": [
@@ -1084,7 +1055,6 @@
                             ]
                         },
                         {
-                            "id": 1962,
                             "name": "ভুয়াপুর উপজেলা",
                             "name_en": "Bhuapur Upazilla",
                             "unions": [
@@ -1115,7 +1085,6 @@
                             ]
                         },
                         {
-                            "id": 1963,
                             "name": "দেলদুয়ার উপজেলা",
                             "name_en": "Delduar Upazilla",
                             "unions": [
@@ -1154,7 +1123,6 @@
                             ]
                         },
                         {
-                            "id": 1964,
                             "name": "ঘাটাইল উপজেলা",
                             "name_en": "Ghatail Upazilla",
                             "unions": [
@@ -1205,7 +1173,6 @@
                             ]
                         },
                         {
-                            "id": 1965,
                             "name": "গোপালপুর উপজেলা",
                             "name_en": "Gopalpur Upazilla",
                             "unions": [
@@ -1240,7 +1207,6 @@
                             ]
                         },
                         {
-                            "id": 1967,
                             "name": "মধুপুর উপজেলা",
                             "name_en": "Madhupur Upazilla",
                             "unions": [
@@ -1271,7 +1237,6 @@
                             ]
                         },
                         {
-                            "id": 1968,
                             "name": "মির্জাপুর উপজেলা",
                             "name_en": "Mirzapur Upazilla",
                             "unions": [
@@ -1334,7 +1299,6 @@
                             ]
                         },
                         {
-                            "id": 1969,
                             "name": "নাগরপুর উপজেলা",
                             "name_en": "Nagarpur Upazilla",
                             "unions": [
@@ -1389,7 +1353,6 @@
                             ]
                         },
                         {
-                            "id": 1970,
                             "name": "সখিপুর উপজেলা",
                             "name_en": "Sakhipur Upazilla",
                             "unions": [
@@ -1428,7 +1391,6 @@
                             ]
                         },
                         {
-                            "id": 1971,
                             "name": "টাঙ্গাইল সদর উপজেলা",
                             "name_en": "Tangailsadar Upazilla",
                             "unions": [
@@ -1483,7 +1445,6 @@
                             ]
                         },
                         {
-                            "id": 1975,
                             "name": "কালিহাতী উপজেলা",
                             "name_en": "Kalihati Upazilla",
                             "unions": [
@@ -1542,7 +1503,6 @@
                             ]
                         },
                         {
-                            "id": 1980,
                             "name": "ধনবাড়ী উপজেলা",
                             "name_en": "Dhanbari Upazilla",
                             "unions": [
@@ -1579,12 +1539,10 @@
                     ]
                 },
                 {
-                    "id": 2256,
                     "name": "কিশোরগঞ্জ জেলা",
                     "name_en": "Kishoreganj District",
                     "upazilas": [
                         {
-                            "id": 2279,
                             "name": "ইটনা উপজেলা",
                             "name_en": "Itna Upazilla",
                             "unions": [
@@ -1627,7 +1585,6 @@
                             ]
                         },
                         {
-                            "id": 2280,
                             "name": "কটিয়াদী উপজেলা",
                             "name_en": "Katiadi Upazilla",
                             "unions": [
@@ -1670,7 +1627,6 @@
                             ]
                         },
                         {
-                            "id": 2281,
                             "name": "ভৈরব উপজেলা",
                             "name_en": "Bhairab Upazilla",
                             "unions": [
@@ -1705,7 +1661,6 @@
                             ]
                         },
                         {
-                            "id": 2282,
                             "name": "তাড়াইল উপজেলা",
                             "name_en": "Tarail Upazilla",
                             "unions": [
@@ -1740,7 +1695,6 @@
                             ]
                         },
                         {
-                            "id": 2283,
                             "name": "হোসেনপুর উপজেলা",
                             "name_en": "Hossainpur Upazilla",
                             "unions": [
@@ -1771,7 +1725,6 @@
                             ]
                         },
                         {
-                            "id": 2284,
                             "name": "পাকুন্দিয়া উপজেলা",
                             "name_en": "Pakundia Upazilla",
                             "unions": [
@@ -1818,7 +1771,6 @@
                             ]
                         },
                         {
-                            "id": 2285,
                             "name": "কুলিয়ারচর উপজেলা",
                             "name_en": "Kuliarchar Upazilla",
                             "unions": [
@@ -1849,7 +1801,6 @@
                             ]
                         },
                         {
-                            "id": 2286,
                             "name": "কিশোরগঞ্জ সদর উপজেলা",
                             "name_en": "Kishoreganjsadar Upazilla",
                             "unions": [
@@ -1900,7 +1851,6 @@
                             ]
                         },
                         {
-                            "id": 2287,
                             "name": "করিমগঞ্জ উপজেলা",
                             "name_en": "Karimgonj Upazilla",
                             "unions": [
@@ -1951,7 +1901,6 @@
                             ]
                         },
                         {
-                            "id": 2288,
                             "name": "বাজিতপুর উপজেলা",
                             "name_en": "Bajitpur Upazilla",
                             "unions": [
@@ -2002,7 +1951,6 @@
                             ]
                         },
                         {
-                            "id": 2289,
                             "name": "অষ্টগ্রাম উপজেলা",
                             "name_en": "Austagram Upazilla",
                             "unions": [
@@ -2041,7 +1989,6 @@
                             ]
                         },
                         {
-                            "id": 2290,
                             "name": "মিঠামইন উপজেলা",
                             "name_en": "Mithamoin Upazilla",
                             "unions": [
@@ -2076,7 +2023,6 @@
                             ]
                         },
                         {
-                            "id": 2291,
                             "name": "নিকলী উপজেলা",
                             "name_en": "Nikli Upazilla",
                             "unions": [
@@ -2113,12 +2059,10 @@
                     ]
                 },
                 {
-                    "id": 2258,
                     "name": "মানিকগঞ্জ জেলা",
                     "name_en": "Manikganj District",
                     "upazilas": [
                         {
-                            "id": 2401,
                             "name": "হরিরামপুর উপজেলা",
                             "name_en": "Harirampur Upazilla",
                             "unions": [
@@ -2177,7 +2121,6 @@
                             ]
                         },
                         {
-                            "id": 3857,
                             "name": "সাটুরিয়া উপজেলা",
                             "name_en": "Saturia Upazilla",
                             "unions": [
@@ -2220,7 +2163,6 @@
                             ]
                         },
                         {
-                            "id": 3863,
                             "name": "মানিকগঞ্জ সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -2267,7 +2209,6 @@
                             ]
                         },
                         {
-                            "id": 3865,
                             "name": "ঘিওর উপজেলা",
                             "name_en": "Gior Upazilla",
                             "unions": [
@@ -2302,7 +2243,6 @@
                             ]
                         },
                         {
-                            "id": 3866,
                             "name": "শিবালয় উপজেলা",
                             "name_en": "Shibaloy Upazilla",
                             "unions": [
@@ -2337,7 +2277,6 @@
                             ]
                         },
                         {
-                            "id": 3868,
                             "name": "দৌলতপুর উপজেলা",
                             "name_en": "Doulatpur Upazilla",
                             "unions": [
@@ -2376,7 +2315,6 @@
                             ]
                         },
                         {
-                            "id": 3869,
                             "name": "সিংগাইর উপজেলা",
                             "name_en": "Singiar Upazilla",
                             "unions": [
@@ -2429,12 +2367,10 @@
                     ]
                 },
                 {
-                    "id": 2942,
                     "name": "ঢাকা জেলা",
                     "name_en": "Dhaka District",
                     "upazilas": [
                         {
-                            "id": 2379,
                             "name": "সাভার উপজেলা",
                             "name_en": "Savar Upazilla",
                             "unions": [
@@ -2489,7 +2425,6 @@
                             ]
                         },
                         {
-                            "id": 2383,
                             "name": "ধামরাই উপজেলা",
                             "name_en": "Dhamrai Upazilla",
                             "unions": [
@@ -2560,7 +2495,6 @@
                             ]
                         },
                         {
-                            "id": 2384,
                             "name": "কেরাণীগঞ্জ উপজেলা",
                             "name_en": "Keraniganj Upazilla",
                             "unions": [
@@ -2615,7 +2549,6 @@
                             ]
                         },
                         {
-                            "id": 2386,
                             "name": "নবাবগঞ্জ উপজেলা",
                             "name_en": "Nawabganj Upazilla",
                             "unions": [
@@ -2678,7 +2611,6 @@
                             ]
                         },
                         {
-                            "id": 2389,
                             "name": "দোহার উপজেলা",
                             "name_en": "Dohar Upazilla",
                             "unions": [
@@ -2719,12 +2651,10 @@
                     ]
                 },
                 {
-                    "id": 3024,
                     "name": "মুন্সিগঞ্জ জেলা",
                     "name_en": "Munshiganj District",
                     "upazilas": [
                         {
-                            "id": 3029,
                             "name": "মুন্সিগঞ্জ সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -2767,7 +2697,6 @@
                             ]
                         },
                         {
-                            "id": 3030,
                             "name": "শ্রীনগর উপজেলা",
                             "name_en": "Sreenagar Upazilla",
                             "unions": [
@@ -2830,7 +2759,6 @@
                             ]
                         },
                         {
-                            "id": 3031,
                             "name": "সিরাজদিখান উপজেলা",
                             "name_en": "Sirajdikhan Upazilla",
                             "unions": [
@@ -2893,7 +2821,6 @@
                             ]
                         },
                         {
-                            "id": 3032,
                             "name": "লৌহজং উপজেলা",
                             "name_en": "Louhajanj Upazilla",
                             "unions": [
@@ -2940,7 +2867,6 @@
                             ]
                         },
                         {
-                            "id": 3033,
                             "name": "গজারিয়া উপজেলা",
                             "name_en": "Gajaria Upazilla",
                             "unions": [
@@ -2979,7 +2905,6 @@
                             ]
                         },
                         {
-                            "id": 3034,
                             "name": "টংগীবাড়ি উপজেলা",
                             "name_en": "Tongibari Upazilla",
                             "unions": [
@@ -3036,12 +2961,10 @@
                     ]
                 },
                 {
-                    "id": 3025,
                     "name": "রাজবাড়ী জেলা",
                     "name_en": "Rajbari District",
                     "upazilas": [
                         {
-                            "id": 3035,
                             "name": "রাজবাড়ী সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -3104,7 +3027,6 @@
                             ]
                         },
                         {
-                            "id": 3036,
                             "name": "গোয়ালন্দ উপজেলা",
                             "name_en": "Goalanda Upazilla",
                             "unions": [
@@ -3127,7 +3049,6 @@
                             ]
                         },
                         {
-                            "id": 3037,
                             "name": "পাংশা উপজেলা",
                             "name_en": "Pangsa Upazilla",
                             "unions": [
@@ -3174,7 +3095,6 @@
                             ]
                         },
                         {
-                            "id": 3038,
                             "name": "বালিয়াকান্দি উপজেলা",
                             "name_en": "Baliakandi Upazilla",
                             "unions": [
@@ -3209,7 +3129,6 @@
                             ]
                         },
                         {
-                            "id": 3039,
                             "name": "কালুখালী উপজেলা",
                             "name_en": "Kalukhali Upazilla",
                             "unions": [
@@ -3250,12 +3169,10 @@
                     ]
                 },
                 {
-                    "id": 3026,
                     "name": "মাদারীপুর জেলা",
                     "name_en": "Madaripur District",
                     "upazilas": [
                         {
-                            "id": 3046,
                             "name": "মাদারীপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -3322,7 +3239,6 @@
                             ]
                         },
                         {
-                            "id": 3047,
                             "name": "শিবচর উপজেলা",
                             "name_en": "Shibchar Upazilla",
                             "unions": [
@@ -3405,7 +3321,6 @@
                             ]
                         },
                         {
-                            "id": 3048,
                             "name": "কালকিনি উপজেলা",
                             "name_en": "Kalkini Upazilla",
                             "unions": [
@@ -3468,7 +3383,6 @@
                             ]
                         },
                         {
-                            "id": 3049,
                             "name": "রাজৈর উপজেলা",
                             "name_en": "Rajoir Upazilla",
                             "unions": [
@@ -3521,12 +3435,10 @@
                     ]
                 },
                 {
-                    "id": 3027,
                     "name": "গোপালগঞ্জ জেলা",
                     "name_en": "Gopalganj District",
                     "upazilas": [
                         {
-                            "id": 3050,
                             "name": "গোপালগঞ্জ সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -3617,7 +3529,6 @@
                             ]
                         },
                         {
-                            "id": 3051,
                             "name": "কাশিয়ানী উপজেলা",
                             "name_en": "Kashiani Upazilla",
                             "unions": [
@@ -3680,7 +3591,6 @@
                             ]
                         },
                         {
-                            "id": 3052,
                             "name": "টুংগীপাড়া উপজেলা",
                             "name_en": "Tungipara Upazilla",
                             "unions": [
@@ -3707,7 +3617,6 @@
                             ]
                         },
                         {
-                            "id": 3053,
                             "name": "কোটালীপাড়া উপজেলা",
                             "name_en": "Kotalipara Upazilla",
                             "unions": [
@@ -3758,7 +3667,6 @@
                             ]
                         },
                         {
-                            "id": 3054,
                             "name": "মুকসুদপুর উপজেলা",
                             "name_en": "Muksudpur Upazilla",
                             "unions": [
@@ -3831,12 +3739,10 @@
                     ]
                 },
                 {
-                    "id": 3028,
                     "name": "ফরিদপুর জেলা",
                     "name_en": "Faridpur District",
                     "upazilas": [
                         {
-                            "id": 3055,
                             "name": "ফরিদপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -3887,7 +3793,6 @@
                             ]
                         },
                         {
-                            "id": 3056,
                             "name": "আলফাডাঙ্গা উপজেলা",
                             "name_en": "Alfadanga Upazilla",
                             "unions": [
@@ -3918,7 +3823,6 @@
                             ]
                         },
                         {
-                            "id": 3057,
                             "name": "বোয়ালমারী উপজেলা",
                             "name_en": "Boalmari Upazilla",
                             "unions": [
@@ -3969,7 +3873,6 @@
                             ]
                         },
                         {
-                            "id": 3058,
                             "name": "সদরপুর উপজেলা",
                             "name_en": "Sadarpur Upazilla",
                             "unions": [
@@ -4012,7 +3915,6 @@
                             ]
                         },
                         {
-                            "id": 3059,
                             "name": "নগরকান্দা উপজেলা",
                             "name_en": "Nagarkanda Upazilla",
                             "unions": [
@@ -4055,7 +3957,6 @@
                             ]
                         },
                         {
-                            "id": 3060,
                             "name": "ভাঙ্গা উপজেলা",
                             "name_en": "Bhanga Upazilla",
                             "unions": [
@@ -4110,7 +4011,6 @@
                             ]
                         },
                         {
-                            "id": 3061,
                             "name": "চরভদ্রাসন উপজেলা",
                             "name_en": "Charbhadrasan Upazilla",
                             "unions": [
@@ -4133,7 +4033,6 @@
                             ]
                         },
                         {
-                            "id": 3062,
                             "name": "মধুখালী উপজেলা",
                             "name_en": "Madhukhali Upazilla",
                             "unions": [
@@ -4176,7 +4075,6 @@
                             ]
                         },
                         {
-                            "id": 3063,
                             "name": "সালথা উপজেলা",
                             "name_en": "Saltha Upazilla",
                             "unions": [
@@ -4219,17 +4117,14 @@
             ]
         },
         {
-            "id": 36,
             "name": "চট্টগ্রাম",
             "name_en": "Chattogram",
             "districts": [
                 {
-                    "id": 28,
                     "name": "কুমিল্লা জেলা",
                     "name_en": "Cumilla District",
                     "upazilas": [
                         {
-                            "id": 29,
                             "name": "দেবিদ্বার উপজেলা",
                             "name_en": "Debidwar Upazilla",
                             "unions": [
@@ -4296,7 +4191,6 @@
                             ]
                         },
                         {
-                            "id": 78,
                             "name": "বরুড়া উপজেলা",
                             "name_en": "Barura Upazilla",
                             "unions": [
@@ -4363,7 +4257,6 @@
                             ]
                         },
                         {
-                            "id": 79,
                             "name": "ব্রাহ্মণপাড়া উপজেলা",
                             "name_en": "Brahmanpara Upazilla",
                             "unions": [
@@ -4402,7 +4295,6 @@
                             ]
                         },
                         {
-                            "id": 81,
                             "name": "চান্দিনা উপজেলা",
                             "name_en": "Chandina Upazilla",
                             "unions": [
@@ -4461,7 +4353,6 @@
                             ]
                         },
                         {
-                            "id": 82,
                             "name": "চৌদ্দগ্রাম উপজেলা",
                             "name_en": "Chauddagram Upazilla",
                             "unions": [
@@ -4516,7 +4407,6 @@
                             ]
                         },
                         {
-                            "id": 83,
                             "name": "দাউদকান্দি উপজেলা",
                             "name_en": "Daudkandi Upazilla",
                             "unions": [
@@ -4583,7 +4473,6 @@
                             ]
                         },
                         {
-                            "id": 84,
                             "name": "হোমনা উপজেলা",
                             "name_en": "Homna Upazilla",
                             "unions": [
@@ -4626,7 +4515,6 @@
                             ]
                         },
                         {
-                            "id": 85,
                             "name": "লাকসাম উপজেলা",
                             "name_en": "Laksam Upazilla",
                             "unions": [
@@ -4661,7 +4549,6 @@
                             ]
                         },
                         {
-                            "id": 86,
                             "name": "মুরাদনগর উপজেলা",
                             "name_en": "Muradnagar Upazilla",
                             "unions": [
@@ -4756,7 +4643,6 @@
                             ]
                         },
                         {
-                            "id": 87,
                             "name": "নাঙ্গলকোট উপজেলা",
                             "name_en": "Nangalkot Upazilla",
                             "unions": [
@@ -4815,7 +4701,6 @@
                             ]
                         },
                         {
-                            "id": 88,
                             "name": "কুমিল্লা সদর উপজেলা",
                             "name_en": "Cumillasadar Upazilla",
                             "unions": [
@@ -4846,7 +4731,6 @@
                             ]
                         },
                         {
-                            "id": 89,
                             "name": "মেঘনা উপজেলা",
                             "name_en": "Meghna Upazilla",
                             "unions": [
@@ -4885,7 +4769,6 @@
                             ]
                         },
                         {
-                            "id": 90,
                             "name": "মনোহরগঞ্জ উপজেলা",
                             "name_en": "Monohargonj Upazilla",
                             "unions": [
@@ -4936,7 +4819,6 @@
                             ]
                         },
                         {
-                            "id": 91,
                             "name": "সদর দক্ষিণ উপজেলা",
                             "name_en": "Sadarsouth Upazilla",
                             "unions": [
@@ -4999,7 +4881,6 @@
                             ]
                         },
                         {
-                            "id": 92,
                             "name": "তিতাস উপজেলা",
                             "name_en": "Titas Upazilla",
                             "unions": [
@@ -5042,7 +4923,6 @@
                             ]
                         },
                         {
-                            "id": 111,
                             "name": "বুড়িচং উপজেলা",
                             "name_en": "Burichang Upazilla",
                             "unions": [
@@ -5081,7 +4961,6 @@
                             ]
                         },
                         {
-                            "id": 6195,
                             "name": "লালমাই উপজেলা",
                             "name_en": "Lalmai Upazilla",
                             "unions": [
@@ -5122,12 +5001,10 @@
                     ]
                 },
                 {
-                    "id": 987,
                     "name": "ফেনী জেলা",
                     "name_en": "Feni District",
                     "upazilas": [
                         {
-                            "id": 4386,
                             "name": "ছাগলনাইয়া উপজেলা",
                             "name_en": "Chhagalnaiya Upazilla",
                             "unions": [
@@ -5154,7 +5031,6 @@
                             ]
                         },
                         {
-                            "id": 4471,
                             "name": "ফেনী সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -5209,7 +5085,6 @@
                             ]
                         },
                         {
-                            "id": 4474,
                             "name": "সোনাগাজী উপজেলা",
                             "name_en": "Sonagazi Upazilla",
                             "unions": [
@@ -5252,7 +5127,6 @@
                             ]
                         },
                         {
-                            "id": 4629,
                             "name": "ফুলগাজী উপজেলা",
                             "name_en": "Fulgazi Upazilla",
                             "unions": [
@@ -5283,7 +5157,6 @@
                             ]
                         },
                         {
-                            "id": 4631,
                             "name": "পরশুরাম উপজেলা",
                             "name_en": "Parshuram Upazilla",
                             "unions": [
@@ -5302,7 +5175,6 @@
                             ]
                         },
                         {
-                            "id": 4632,
                             "name": "দাগনভূঞা উপজেলা",
                             "name_en": "Daganbhuiyan Upazilla",
                             "unions": [
@@ -5343,12 +5215,10 @@
                     ]
                 },
                 {
-                    "id": 998,
                     "name": "ব্রাহ্মণবাড়িয়া জেলা",
                     "name_en": "Brahmanbaria District",
                     "upazilas": [
                         {
-                            "id": 4791,
                             "name": "ব্রাহ্মণবাড়িয়া সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -5399,7 +5269,6 @@
                             ]
                         },
                         {
-                            "id": 4792,
                             "name": "কসবা উপজেলা",
                             "name_en": "Kasba Upazilla",
                             "unions": [
@@ -5446,7 +5315,6 @@
                             ]
                         },
                         {
-                            "id": 4800,
                             "name": "নাসিরনগর উপজেলা",
                             "name_en": "Nasirnagar Upazilla",
                             "unions": [
@@ -5505,7 +5373,6 @@
                             ]
                         },
                         {
-                            "id": 4822,
                             "name": "সরাইল উপজেলা",
                             "name_en": "Sarail Upazilla",
                             "unions": [
@@ -5548,7 +5415,6 @@
                             ]
                         },
                         {
-                            "id": 4978,
                             "name": "আশুগঞ্জ উপজেলা",
                             "name_en": "Ashuganj Upazilla",
                             "unions": [
@@ -5587,7 +5453,6 @@
                             ]
                         },
                         {
-                            "id": 4979,
                             "name": "আখাউড়া উপজেলা",
                             "name_en": "Akhaura Upazilla",
                             "unions": [
@@ -5614,7 +5479,6 @@
                             ]
                         },
                         {
-                            "id": 4980,
                             "name": "নবীনগর উপজেলা",
                             "name_en": "Nabinagar Upazilla",
                             "unions": [
@@ -5705,7 +5569,6 @@
                             ]
                         },
                         {
-                            "id": 4982,
                             "name": "বাঞ্ছারামপুর উপজেলা",
                             "name_en": "Bancharampur Upazilla",
                             "unions": [
@@ -5764,7 +5627,6 @@
                             ]
                         },
                         {
-                            "id": 4986,
                             "name": "বিজয়নগর উপজেলা",
                             "name_en": "Bijoynagar Upazilla",
                             "unions": [
@@ -5813,12 +5675,10 @@
                     ]
                 },
                 {
-                    "id": 1002,
                     "name": "রাঙ্গামাটি জেলা",
                     "name_en": "Rangamati District",
                     "upazilas": [
                         {
-                            "id": 3190,
                             "name": "রাঙ্গামাটি সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -5849,7 +5709,6 @@
                             ]
                         },
                         {
-                            "id": 3191,
                             "name": "কাপ্তাই উপজেলা",
                             "name_en": "Kaptai Upazilla",
                             "unions": [
@@ -5876,7 +5735,6 @@
                             ]
                         },
                         {
-                            "id": 3192,
                             "name": "কাউখালী উপজেলা",
                             "name_en": "Kawkhali Upazilla",
                             "unions": [
@@ -5899,7 +5757,6 @@
                             ]
                         },
                         {
-                            "id": 3193,
                             "name": "বাঘাইছড়ি উপজেলা",
                             "name_en": "Baghaichari Upazilla",
                             "unions": [
@@ -5938,7 +5795,6 @@
                             ]
                         },
                         {
-                            "id": 3840,
                             "name": "বরকল উপজেলা",
                             "name_en": "Barkal Upazilla",
                             "unions": [
@@ -5965,7 +5821,6 @@
                             ]
                         },
                         {
-                            "id": 3841,
                             "name": "লংগদু উপজেলা",
                             "name_en": "Langadu Upazilla",
                             "unions": [
@@ -6000,7 +5855,6 @@
                             ]
                         },
                         {
-                            "id": 3842,
                             "name": "রাজস্থলী উপজেলা",
                             "name_en": "Rajasthali Upazilla",
                             "unions": [
@@ -6019,7 +5873,6 @@
                             ]
                         },
                         {
-                            "id": 4892,
                             "name": "বিলাইছড়ি উপজেলা",
                             "name_en": "Belaichari Upazilla",
                             "unions": [
@@ -6038,7 +5891,6 @@
                             ]
                         },
                         {
-                            "id": 4893,
                             "name": "জুরাছড়ি উপজেলা",
                             "name_en": "Juraichari Upazilla",
                             "unions": [
@@ -6061,7 +5913,6 @@
                             ]
                         },
                         {
-                            "id": 4894,
                             "name": "নানিয়ারচর উপজেলা",
                             "name_en": "Naniarchar Upazilla",
                             "unions": [
@@ -6086,12 +5937,10 @@
                     ]
                 },
                 {
-                    "id": 1006,
                     "name": "নোয়াখালী জেলা",
                     "name_en": "Noakhali District",
                     "upazilas": [
                         {
-                            "id": 4215,
                             "name": "নোয়াখালী সদর",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -6150,7 +5999,6 @@
                             ]
                         },
                         {
-                            "id": 4279,
                             "name": "কোম্পানীগঞ্জ উপজেলা",
                             "name_en": "Companiganj Upazilla",
                             "unions": [
@@ -6189,7 +6037,6 @@
                             ]
                         },
                         {
-                            "id": 4281,
                             "name": "বেগমগঞ্জ উপজেলা",
                             "name_en": "Begumganj Upazilla",
                             "unions": [
@@ -6260,7 +6107,6 @@
                             ]
                         },
                         {
-                            "id": 4427,
                             "name": "হাতিয়া উপজেলা",
                             "name_en": "Hatia Upazilla",
                             "unions": [
@@ -6303,7 +6149,6 @@
                             ]
                         },
                         {
-                            "id": 4428,
                             "name": "সুবর্ণচর উপজেলা",
                             "name_en": "Subarnachar Upazilla",
                             "unions": [
@@ -6342,7 +6187,6 @@
                             ]
                         },
                         {
-                            "id": 4553,
                             "name": "কবিরহাট উপজেলা",
                             "name_en": "Kabirhat Upazilla",
                             "unions": [
@@ -6377,7 +6221,6 @@
                             ]
                         },
                         {
-                            "id": 4630,
                             "name": "সেনবাগ উপজেলা",
                             "name_en": "Senbug Upazilla",
                             "unions": [
@@ -6420,7 +6263,6 @@
                             ]
                         },
                         {
-                            "id": 4633,
                             "name": "চাটখিল উপজেলা",
                             "name_en": "Chatkhil Upazilla",
                             "unions": [
@@ -6463,7 +6305,6 @@
                             ]
                         },
                         {
-                            "id": 4671,
                             "name": "সোনাইমুড়ী উপজেলা",
                             "name_en": "Sonaimori Upazilla",
                             "unions": [
@@ -6512,12 +6353,10 @@
                     ]
                 },
                 {
-                    "id": 2075,
                     "name": "চাঁদপুর জেলা",
                     "name_en": "Chandpur District",
                     "upazilas": [
                         {
-                            "id": 1155,
                             "name": "হাইমচর উপজেলা",
                             "name_en": "Haimchar Upazilla",
                             "unions": [
@@ -6548,7 +6387,6 @@
                             ]
                         },
                         {
-                            "id": 1159,
                             "name": "কচুয়া উপজেলা",
                             "name_en": "Kachua Upazilla",
                             "unions": [
@@ -6603,7 +6441,6 @@
                             ]
                         },
                         {
-                            "id": 1164,
                             "name": "শাহরাস্তি উপজেলা",
                             "name_en": "Shahrasti Upazilla",
                             "unions": [
@@ -6650,7 +6487,6 @@
                             ]
                         },
                         {
-                            "id": 2411,
                             "name": "চাঁদপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -6713,7 +6549,6 @@
                             ]
                         },
                         {
-                            "id": 2413,
                             "name": "মতলব দক্ষিণ",
                             "name_en": "Matlabsouth Upazilla",
                             "unions": [
@@ -6744,7 +6579,6 @@
                             ]
                         },
                         {
-                            "id": 2532,
                             "name": "হাজীগঞ্জ উপজেলা",
                             "name_en": "Hajiganj Upazilla",
                             "unions": [
@@ -6795,7 +6629,6 @@
                             ]
                         },
                         {
-                            "id": 2632,
                             "name": "মতলব উত্তর",
                             "name_en": "Matlabnorth Upazilla",
                             "unions": [
@@ -6858,7 +6691,6 @@
                             ]
                         },
                         {
-                            "id": 2684,
                             "name": "ফরিদগঞ্জ উপজেলা",
                             "name_en": "Faridgonj Upazilla",
                             "unions": [
@@ -6927,12 +6759,10 @@
                     ]
                 },
                 {
-                    "id": 3108,
                     "name": "লক্ষ্মীপুর জেলা",
                     "name_en": "Lakshmipur District",
                     "upazilas": [
                         {
-                            "id": 4706,
                             "name": "লক্ষ্মীপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -7023,7 +6853,6 @@
                             ]
                         },
                         {
-                            "id": 4707,
                             "name": "কমলনগর উপজেলা",
                             "name_en": "Kamalnagar Upazilla",
                             "unions": [
@@ -7066,7 +6895,6 @@
                             ]
                         },
                         {
-                            "id": 4708,
                             "name": "রায়পুর উপজেলা",
                             "name_en": "Raipur Upazilla",
                             "unions": [
@@ -7113,7 +6941,6 @@
                             ]
                         },
                         {
-                            "id": 4709,
                             "name": "রামগতি উপজেলা",
                             "name_en": "Ramgati Upazilla",
                             "unions": [
@@ -7152,7 +6979,6 @@
                             ]
                         },
                         {
-                            "id": 4710,
                             "name": "রামগঞ্জ উপজেলা",
                             "name_en": "Ramganj Upazilla",
                             "unions": [
@@ -7201,12 +7027,10 @@
                     ]
                 },
                 {
-                    "id": 3152,
                     "name": "চট্টগ্রাম জেলা",
                     "name_en": "Chattogram District",
                     "upazilas": [
                         {
-                            "id": 3458,
                             "name": "রাঙ্গুনিয়া উপজেলা",
                             "name_en": "Rangunia Upazilla",
                             "unions": [
@@ -7269,7 +7093,6 @@
                             ]
                         },
                         {
-                            "id": 4838,
                             "name": "সীতাকুন্ড উপজেলা",
                             "name_en": "Sitakunda Upazilla",
                             "unions": [
@@ -7312,7 +7135,6 @@
                             ]
                         },
                         {
-                            "id": 4848,
                             "name": "মীরসরাই উপজেলা",
                             "name_en": "Mirsharai Upazilla",
                             "unions": [
@@ -7383,7 +7205,6 @@
                             ]
                         },
                         {
-                            "id": 4889,
                             "name": "পটিয়া উপজেলা",
                             "name_en": "Patiya Upazilla",
                             "unions": [
@@ -7478,7 +7299,6 @@
                             ]
                         },
                         {
-                            "id": 4968,
                             "name": "সন্দ্বীপ উপজেলা",
                             "name_en": "Sandwip Upazilla",
                             "unions": [
@@ -7541,7 +7361,6 @@
                             ]
                         },
                         {
-                            "id": 4969,
                             "name": "বাঁশখালী উপজেলা",
                             "name_en": "Banshkhali Upazilla",
                             "unions": [
@@ -7604,7 +7423,6 @@
                             ]
                         },
                         {
-                            "id": 4970,
                             "name": "বোয়ালখালী উপজেলা",
                             "name_en": "Boalkhali Upazilla",
                             "unions": [
@@ -7651,7 +7469,6 @@
                             ]
                         },
                         {
-                            "id": 4971,
                             "name": "আনোয়ারা উপজেলা",
                             "name_en": "Anwara Upazilla",
                             "unions": [
@@ -7702,7 +7519,6 @@
                             ]
                         },
                         {
-                            "id": 4972,
                             "name": "চন্দনাইশ উপজেলা",
                             "name_en": "Chandanaish Upazilla",
                             "unions": [
@@ -7745,7 +7561,6 @@
                             ]
                         },
                         {
-                            "id": 4973,
                             "name": "সাতকানিয়া উপজেলা",
                             "name_en": "Satkania Upazilla",
                             "unions": [
@@ -7816,7 +7631,6 @@
                             ]
                         },
                         {
-                            "id": 4974,
                             "name": "লোহাগাড়া উপজেলা",
                             "name_en": "Lohagara Upazilla",
                             "unions": [
@@ -7859,7 +7673,6 @@
                             ]
                         },
                         {
-                            "id": 4975,
                             "name": "হাটহাজারী উপজেলা",
                             "name_en": "Hathazari Upazilla",
                             "unions": [
@@ -7926,7 +7739,6 @@
                             ]
                         },
                         {
-                            "id": 4976,
                             "name": "ফটিকছড়ি উপজেলা",
                             "name_en": "Fatikchhari Upazilla",
                             "unions": [
@@ -8005,7 +7817,6 @@
                             ]
                         },
                         {
-                            "id": 4977,
                             "name": "রাউজান উপজেলা",
                             "name_en": "Raozan Upazilla",
                             "unions": [
@@ -8068,7 +7879,6 @@
                             ]
                         },
                         {
-                            "id": 6180,
                             "name": "কর্ণফুলী উপজেলা",
                             "name_en": "Karnafuli Upazilla",
                             "unions": [
@@ -8097,12 +7907,10 @@
                     ]
                 },
                 {
-                    "id": 3237,
                     "name": "কক্সবাজার জেলা",
                     "name_en": "Coxsbazar District",
                     "upazilas": [
                         {
-                            "id": 3251,
                             "name": "কক্সবাজার সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -8149,7 +7957,6 @@
                             ]
                         },
                         {
-                            "id": 3252,
                             "name": "চকরিয়া উপজেলা",
                             "name_en": "Chakaria Upazilla",
                             "unions": [
@@ -8220,7 +8027,6 @@
                             ]
                         },
                         {
-                            "id": 3253,
                             "name": "কুতুবদিয়া উপজেলা",
                             "name_en": "Kutubdia Upazilla",
                             "unions": [
@@ -8251,7 +8057,6 @@
                             ]
                         },
                         {
-                            "id": 3254,
                             "name": "উখিয়া উপজেলা",
                             "name_en": "Ukhiya Upazilla",
                             "unions": [
@@ -8278,7 +8083,6 @@
                             ]
                         },
                         {
-                            "id": 3255,
                             "name": "মহেশখালী উপজেলা",
                             "name_en": "Moheshkhali Upazilla",
                             "unions": [
@@ -8317,7 +8121,6 @@
                             ]
                         },
                         {
-                            "id": 3256,
                             "name": "পেকুয়া উপজেলা",
                             "name_en": "Pekua Upazilla",
                             "unions": [
@@ -8352,7 +8155,6 @@
                             ]
                         },
                         {
-                            "id": 3257,
                             "name": "রামু উপজেলা",
                             "name_en": "Ramu Upazilla",
                             "unions": [
@@ -8403,7 +8205,6 @@
                             ]
                         },
                         {
-                            "id": 3258,
                             "name": "টেকনাফ উপজেলা",
                             "name_en": "Teknaf Upazilla",
                             "unions": [
@@ -8436,12 +8237,10 @@
                     ]
                 },
                 {
-                    "id": 3238,
                     "name": "খাগড়াছড়ি জেলা",
                     "name_en": "Khagrachhari District",
                     "upazilas": [
                         {
-                            "id": 3270,
                             "name": "খাগড়াছড়ি সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -8464,7 +8263,6 @@
                             ]
                         },
                         {
-                            "id": 3278,
                             "name": "দিঘীনালা উপজেলা",
                             "name_en": "Dighinala Upazilla",
                             "unions": [
@@ -8491,7 +8289,6 @@
                             ]
                         },
                         {
-                            "id": 3279,
                             "name": "পানছড়ি উপজেলা",
                             "name_en": "Panchari Upazilla",
                             "unions": [
@@ -8514,7 +8311,6 @@
                             ]
                         },
                         {
-                            "id": 3280,
                             "name": "লক্ষীছড়ি উপজেলা",
                             "name_en": "Laxmichhari Upazilla",
                             "unions": [
@@ -8533,7 +8329,6 @@
                             ]
                         },
                         {
-                            "id": 3281,
                             "name": "মহালছড়ি উপজেলা",
                             "name_en": "Mohalchari Upazilla",
                             "unions": [
@@ -8560,7 +8355,6 @@
                             ]
                         },
                         {
-                            "id": 3282,
                             "name": "মানিকছড়ি উপজেলা",
                             "name_en": "Manikchari Upazilla",
                             "unions": [
@@ -8583,7 +8377,6 @@
                             ]
                         },
                         {
-                            "id": 3289,
                             "name": "রামগড় উপজেলা",
                             "name_en": "Ramgarh Upazilla",
                             "unions": [
@@ -8602,7 +8395,6 @@
                             ]
                         },
                         {
-                            "id": 3290,
                             "name": "মাটিরাঙ্গা উপজেলা",
                             "name_en": "Matiranga Upazilla",
                             "unions": [
@@ -8641,7 +8433,6 @@
                             ]
                         },
                         {
-                            "id": 6190,
                             "name": "গুইমারা উপজেলা",
                             "name_en": "Guimara Upazilla",
                             "unions": [
@@ -8662,12 +8453,10 @@
                     ]
                 },
                 {
-                    "id": 3245,
                     "name": "বান্দরবান জেলা",
                     "name_en": "Bandarban District",
                     "upazilas": [
                         {
-                            "id": 3269,
                             "name": "বান্দরবান সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -8694,7 +8483,6 @@
                             ]
                         },
                         {
-                            "id": 3291,
                             "name": "আলীকদম উপজেলা",
                             "name_en": "Alikadam Upazilla",
                             "unions": [
@@ -8709,7 +8497,6 @@
                             ]
                         },
                         {
-                            "id": 3292,
                             "name": "নাইক্ষ্যংছড়ি উপজেলা",
                             "name_en": "Naikhongchhari Upazilla",
                             "unions": [
@@ -8736,7 +8523,6 @@
                             ]
                         },
                         {
-                            "id": 3293,
                             "name": "রোয়াংছড়ি উপজেলা",
                             "name_en": "Rowangchhari Upazilla",
                             "unions": [
@@ -8759,7 +8545,6 @@
                             ]
                         },
                         {
-                            "id": 3294,
                             "name": "লামা উপজেলা",
                             "name_en": "Lama Upazilla",
                             "unions": [
@@ -8794,7 +8579,6 @@
                             ]
                         },
                         {
-                            "id": 3295,
                             "name": "রুমা উপজেলা",
                             "name_en": "Ruma Upazilla",
                             "unions": [
@@ -8817,7 +8601,6 @@
                             ]
                         },
                         {
-                            "id": 3296,
                             "name": "থানচি উপজেলা",
                             "name_en": "Thanchi Upazilla",
                             "unions": [
@@ -8844,17 +8627,14 @@
             ]
         },
         {
-            "id": 60,
             "name": "রাজশাহী",
             "name_en": "Rajshahi",
             "districts": [
                 {
-                    "id": 160,
                     "name": "সিরাজগঞ্জ জেলা",
                     "name_en": "Sirajganj District",
                     "upazilas": [
                         {
-                            "id": 161,
                             "name": "বেলকুচি উপজেলা",
                             "name_en": "Belkuchi Upazilla",
                             "unions": [
@@ -8885,7 +8665,6 @@
                             ]
                         },
                         {
-                            "id": 162,
                             "name": "চৌহালি উপজেলা",
                             "name_en": "Chauhali Upazilla",
                             "unions": [
@@ -8920,7 +8699,6 @@
                             ]
                         },
                         {
-                            "id": 163,
                             "name": "কামারখন্দ উপজেলা",
                             "name_en": "Kamarkhand Upazilla",
                             "unions": [
@@ -8943,7 +8721,6 @@
                             ]
                         },
                         {
-                            "id": 164,
                             "name": "কাজীপুর উপজেলা",
                             "name_en": "Kazipur Upazilla",
                             "unions": [
@@ -8998,7 +8775,6 @@
                             ]
                         },
                         {
-                            "id": 165,
                             "name": "রায়গঞ্জ উপজেলা",
                             "name_en": "Raigonj Upazilla",
                             "unions": [
@@ -9041,7 +8817,6 @@
                             ]
                         },
                         {
-                            "id": 166,
                             "name": "শাহজাদপুর উপজেলা",
                             "name_en": "Shahjadpur Upazilla",
                             "unions": [
@@ -9100,7 +8875,6 @@
                             ]
                         },
                         {
-                            "id": 167,
                             "name": "সিরাজগঞ্জ সদর",
                             "name_en": "Sirajganjsadar Upazilla",
                             "unions": [
@@ -9147,7 +8921,6 @@
                             ]
                         },
                         {
-                            "id": 168,
                             "name": "তাড়াশ উপজেলা",
                             "name_en": "Tarash Upazilla",
                             "unions": [
@@ -9186,7 +8959,6 @@
                             ]
                         },
                         {
-                            "id": 169,
                             "name": "উল্লাপাড়া উপজেলা",
                             "name_en": "Ullapara Upazilla",
                             "unions": [
@@ -9247,12 +9019,10 @@
                     ]
                 },
                 {
-                    "id": 989,
                     "name": "পাবনা জেলা",
                     "name_en": "Pabna District",
                     "upazilas": [
                         {
-                            "id": 1067,
                             "name": "সুজানগর উপজেলা",
                             "name_en": "Sujanagar Upazilla",
                             "unions": [
@@ -9299,7 +9069,6 @@
                             ]
                         },
                         {
-                            "id": 1068,
                             "name": "ঈশ্বরদী উপজেলা",
                             "name_en": "Ishurdi Upazilla",
                             "unions": [
@@ -9334,7 +9103,6 @@
                             ]
                         },
                         {
-                            "id": 1069,
                             "name": "ভাঙ্গুড়া উপজেলা",
                             "name_en": "Bhangura Upazilla",
                             "unions": [
@@ -9361,7 +9129,6 @@
                             ]
                         },
                         {
-                            "id": 1070,
                             "name": "পাবনা সদর উপজেলা",
                             "name_en": "Pabnasadar Upazilla",
                             "unions": [
@@ -9408,7 +9175,6 @@
                             ]
                         },
                         {
-                            "id": 1071,
                             "name": "বেড়া উপজেলা",
                             "name_en": "Bera Upazilla",
                             "unions": [
@@ -9451,7 +9217,6 @@
                             ]
                         },
                         {
-                            "id": 1072,
                             "name": "আটঘরিয়া উপজেলা",
                             "name_en": "Atghoria Upazilla",
                             "unions": [
@@ -9478,7 +9243,6 @@
                             ]
                         },
                         {
-                            "id": 1073,
                             "name": "চাটমোহর উপজেলা",
                             "name_en": "Chatmohar Upazilla",
                             "unions": [
@@ -9529,7 +9293,6 @@
                             ]
                         },
                         {
-                            "id": 1074,
                             "name": "সাঁথিয়া উপজেলা",
                             "name_en": "Santhia Upazilla",
                             "unions": [
@@ -9576,7 +9339,6 @@
                             ]
                         },
                         {
-                            "id": 1075,
                             "name": "ফরিদপুর উপজেলা",
                             "name_en": "Faridpur Upazilla",
                             "unions": [
@@ -9609,12 +9371,10 @@
                     ]
                 },
                 {
-                    "id": 993,
                     "name": "বগুড়া জেলা",
                     "name_en": "Bogura District",
                     "upazilas": [
                         {
-                            "id": 1125,
                             "name": "কাহালু উপজেলা",
                             "name_en": "Kahaloo Upazilla",
                             "unions": [
@@ -9657,7 +9417,6 @@
                             ]
                         },
                         {
-                            "id": 1126,
                             "name": "বগুড়া সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -9708,7 +9467,6 @@
                             ]
                         },
                         {
-                            "id": 1130,
                             "name": "সারিয়াকান্দি উপজেলা",
                             "name_en": "Shariakandi Upazilla",
                             "unions": [
@@ -9763,7 +9521,6 @@
                             ]
                         },
                         {
-                            "id": 1131,
                             "name": "শাজাহানপুর উপজেলা",
                             "name_en": "Shajahanpur Upazilla",
                             "unions": [
@@ -9806,7 +9563,6 @@
                             ]
                         },
                         {
-                            "id": 1133,
                             "name": "দুপচাচিঁয়া উপজেলা",
                             "name_en": "Dupchanchia Upazilla",
                             "unions": [
@@ -9837,7 +9593,6 @@
                             ]
                         },
                         {
-                            "id": 1135,
                             "name": "আদমদিঘি উপজেলা",
                             "name_en": "Adamdighi Upazilla",
                             "unions": [
@@ -9868,7 +9623,6 @@
                             ]
                         },
                         {
-                            "id": 1137,
                             "name": "নন্দিগ্রাম উপজেলা",
                             "name_en": "Nondigram Upazilla",
                             "unions": [
@@ -9895,7 +9649,6 @@
                             ]
                         },
                         {
-                            "id": 1138,
                             "name": "সোনাতলা উপজেলা",
                             "name_en": "Sonatala Upazilla",
                             "unions": [
@@ -9930,7 +9683,6 @@
                             ]
                         },
                         {
-                            "id": 1139,
                             "name": "ধুনট উপজেলা",
                             "name_en": "Dhunot Upazilla",
                             "unions": [
@@ -9977,7 +9729,6 @@
                             ]
                         },
                         {
-                            "id": 1140,
                             "name": "গাবতলী উপজেলা",
                             "name_en": "Gabtali Upazilla",
                             "unions": [
@@ -10028,7 +9779,6 @@
                             ]
                         },
                         {
-                            "id": 1141,
                             "name": "শেরপুর উপজেলা",
                             "name_en": "Sherpur Upazilla",
                             "unions": [
@@ -10075,7 +9825,6 @@
                             ]
                         },
                         {
-                            "id": 1142,
                             "name": "শিবগঞ্জ উপজেলা",
                             "name_en": "Shibganj Upazilla",
                             "unions": [
@@ -10132,12 +9881,10 @@
                     ]
                 },
                 {
-                    "id": 1004,
                     "name": "রাজশাহী জেলা",
                     "name_en": "Rajshahi District",
                     "upazilas": [
                         {
-                            "id": 2044,
                             "name": "পবা উপজেলা",
                             "name_en": "Paba Upazilla",
                             "unions": [
@@ -10176,7 +9923,6 @@
                             ]
                         },
                         {
-                            "id": 2045,
                             "name": "দুর্গাপুর উপজেলা",
                             "name_en": "Durgapur Upazilla",
                             "unions": [
@@ -10211,7 +9957,6 @@
                             ]
                         },
                         {
-                            "id": 2046,
                             "name": "মোহনপুর উপজেলা",
                             "name_en": "Mohonpur Upazilla",
                             "unions": [
@@ -10242,7 +9987,6 @@
                             ]
                         },
                         {
-                            "id": 2148,
                             "name": "চারঘাট উপজেলা",
                             "name_en": "Charghat Upazilla",
                             "unions": [
@@ -10273,7 +10017,6 @@
                             ]
                         },
                         {
-                            "id": 2187,
                             "name": "পুঠিয়া উপজেলা",
                             "name_en": "Puthia Upazilla",
                             "unions": [
@@ -10304,7 +10047,6 @@
                             ]
                         },
                         {
-                            "id": 2189,
                             "name": "বাঘা উপজেলা",
                             "name_en": "Bagha Upazilla",
                             "unions": [
@@ -10335,7 +10077,6 @@
                             ]
                         },
                         {
-                            "id": 2190,
                             "name": "গোদাগাড়ী উপজেলা",
                             "name_en": "Godagari Upazilla",
                             "unions": [
@@ -10378,7 +10119,6 @@
                             ]
                         },
                         {
-                            "id": 2191,
                             "name": "তানোর উপজেলা",
                             "name_en": "Tanore Upazilla",
                             "unions": [
@@ -10413,7 +10153,6 @@
                             ]
                         },
                         {
-                            "id": 2266,
                             "name": "বাগমারা উপজেলা",
                             "name_en": "Bagmara Upazilla",
                             "unions": [
@@ -10486,12 +10225,10 @@
                     ]
                 },
                 {
-                    "id": 1040,
                     "name": "নাটোর জেলা",
                     "name_en": "Natore District",
                     "upazilas": [
                         {
-                            "id": 1061,
                             "name": "নাটোর সদর উপজেলা",
                             "name_en": "Natoresadar Upazilla",
                             "unions": [
@@ -10546,7 +10283,6 @@
                             ]
                         },
                         {
-                            "id": 1062,
                             "name": "সিংড়া উপজেলা",
                             "name_en": "Singra Upazilla",
                             "unions": [
@@ -10601,7 +10337,6 @@
                             ]
                         },
                         {
-                            "id": 1063,
                             "name": "বড়াইগ্রাম উপজেলা",
                             "name_en": "Baraigram Upazilla",
                             "unions": [
@@ -10636,7 +10371,6 @@
                             ]
                         },
                         {
-                            "id": 1064,
                             "name": "বাগাতিপাড়া উপজেলা",
                             "name_en": "Bagatipara Upazilla",
                             "unions": [
@@ -10663,7 +10397,6 @@
                             ]
                         },
                         {
-                            "id": 1065,
                             "name": "লালপুর উপজেলা",
                             "name_en": "Lalpur Upazilla",
                             "unions": [
@@ -10710,7 +10443,6 @@
                             ]
                         },
                         {
-                            "id": 1066,
                             "name": "গুরুদাসপুর উপজেলা",
                             "name_en": "Gurudaspur Upazilla",
                             "unions": [
@@ -10741,7 +10473,6 @@
                             ]
                         },
                         {
-                            "id": 6178,
                             "name": "নলডাঙ্গা উপজেলা",
                             "name_en": "Naldanga Upazilla",
                             "unions": [
@@ -10770,12 +10501,10 @@
                     ]
                 },
                 {
-                    "id": 1185,
                     "name": "জয়পুরহাট জেলা",
                     "name_en": "Joypurhat District",
                     "upazilas": [
                         {
-                            "id": 2070,
                             "name": "আক্কেলপুর উপজেলা",
                             "name_en": "Akkelpur Upazilla",
                             "unions": [
@@ -10802,7 +10531,6 @@
                             ]
                         },
                         {
-                            "id": 2076,
                             "name": "কালাই উপজেলা",
                             "name_en": "Kalai Upazilla",
                             "unions": [
@@ -10829,7 +10557,6 @@
                             ]
                         },
                         {
-                            "id": 2186,
                             "name": "ক্ষেতলাল উপজেলা",
                             "name_en": "Khetlal Upazilla",
                             "unions": [
@@ -10856,7 +10583,6 @@
                             ]
                         },
                         {
-                            "id": 2306,
                             "name": "পাঁচবিবি উপজেলা",
                             "name_en": "Panchbibi Upazilla",
                             "unions": [
@@ -10895,7 +10621,6 @@
                             ]
                         },
                         {
-                            "id": 2443,
                             "name": "জয়পুরহাট সদর উপজেলা",
                             "name_en": "Joypurhatsadar Upazilla",
                             "unions": [
@@ -10940,12 +10665,10 @@
                     ]
                 },
                 {
-                    "id": 1867,
                     "name": "চাঁপাইনবাবগঞ্জ জেলা",
                     "name_en": "Chapainawabganj District",
                     "upazilas": [
                         {
-                            "id": 1880,
                             "name": "চাঁপাইনবাবগঞ্জ সদর উপজেলা",
                             "name_en": "Chapainawabganjsadar Upazilla",
                             "unions": [
@@ -11008,7 +10731,6 @@
                             ]
                         },
                         {
-                            "id": 1882,
                             "name": "গোমস্তাপুর উপজেলা",
                             "name_en": "Gomostapur Upazilla",
                             "unions": [
@@ -11047,7 +10769,6 @@
                             ]
                         },
                         {
-                            "id": 1883,
                             "name": "নাচোল উপজেলা",
                             "name_en": "Nachol Upazilla",
                             "unions": [
@@ -11070,7 +10791,6 @@
                             ]
                         },
                         {
-                            "id": 1884,
                             "name": "ভোলাহাট উপজেলা",
                             "name_en": "Bholahat Upazilla",
                             "unions": [
@@ -11093,7 +10813,6 @@
                             ]
                         },
                         {
-                            "id": 1886,
                             "name": "শিবগঞ্জ উপজেলা",
                             "name_en": "Shibganj Upazilla",
                             "unions": [
@@ -11162,12 +10881,10 @@
                     ]
                 },
                 {
-                    "id": 1990,
                     "name": "নওগাঁ জেলা",
                     "name_en": "Naogaon District",
                     "upazilas": [
                         {
-                            "id": 2037,
                             "name": "মহাদেবপুর উপজেলা",
                             "name_en": "Mohadevpur Upazilla",
                             "unions": [
@@ -11214,7 +10931,6 @@
                             ]
                         },
                         {
-                            "id": 2041,
                             "name": "বদলগাছী উপজেলা",
                             "name_en": "Badalgachi Upazilla",
                             "unions": [
@@ -11253,7 +10969,6 @@
                             ]
                         },
                         {
-                            "id": 2042,
                             "name": "পত্নিতলা উপজেলা",
                             "name_en": "Patnitala Upazilla",
                             "unions": [
@@ -11304,7 +11019,6 @@
                             ]
                         },
                         {
-                            "id": 2043,
                             "name": "ধামইরহাট উপজেলা",
                             "name_en": "Dhamoirhat Upazilla",
                             "unions": [
@@ -11343,7 +11057,6 @@
                             ]
                         },
                         {
-                            "id": 2149,
                             "name": "নিয়ামতপুর উপজেলা",
                             "name_en": "Niamatpur Upazilla",
                             "unions": [
@@ -11382,7 +11095,6 @@
                             ]
                         },
                         {
-                            "id": 2150,
                             "name": "মান্দা উপজেলা",
                             "name_en": "Manda Upazilla",
                             "unions": [
@@ -11445,7 +11157,6 @@
                             ]
                         },
                         {
-                            "id": 2151,
                             "name": "আত্রাই উপজেলা",
                             "name_en": "Atrai Upazilla",
                             "unions": [
@@ -11484,7 +11195,6 @@
                             ]
                         },
                         {
-                            "id": 2533,
                             "name": "রাণীনগর উপজেলা",
                             "name_en": "Raninagar Upazilla",
                             "unions": [
@@ -11523,7 +11233,6 @@
                             ]
                         },
                         {
-                            "id": 2534,
                             "name": "নওগাঁ সদর উপজেলা",
                             "name_en": "Naogaonsadar Upazilla",
                             "unions": [
@@ -11578,7 +11287,6 @@
                             ]
                         },
                         {
-                            "id": 2537,
                             "name": "পোরশা উপজেলা",
                             "name_en": "Porsha Upazilla",
                             "unions": [
@@ -11609,7 +11317,6 @@
                             ]
                         },
                         {
-                            "id": 2538,
                             "name": "সাপাহার উপজেলা",
                             "name_en": "Sapahar Upazilla",
                             "unions": [
@@ -11644,17 +11351,14 @@
             ]
         },
         {
-            "id": 65,
             "name": "খুলনা",
             "name_en": "Khulna",
             "districts": [
                 {
-                    "id": 61,
                     "name": "যশোর জেলা",
                     "name_en": "Jashore District",
                     "upazilas": [
                         {
-                            "id": 62,
                             "name": "মণিরামপুর উপজেলা",
                             "name_en": "Manirampur Upazilla",
                             "unions": [
@@ -11729,7 +11433,6 @@
                             ]
                         },
                         {
-                            "id": 93,
                             "name": "অভয়নগর উপজেলা",
                             "name_en": "Abhaynagar Upazilla",
                             "unions": [
@@ -11768,7 +11471,6 @@
                             ]
                         },
                         {
-                            "id": 94,
                             "name": "বাঘারপাড়া উপজেলা",
                             "name_en": "Bagherpara Upazilla",
                             "unions": [
@@ -11811,7 +11513,6 @@
                             ]
                         },
                         {
-                            "id": 95,
                             "name": "চৌগাছা উপজেলা",
                             "name_en": "Chougachha Upazilla",
                             "unions": [
@@ -11862,7 +11563,6 @@
                             ]
                         },
                         {
-                            "id": 96,
                             "name": "ঝিকরগাছা উপজেলা",
                             "name_en": "Jhikargacha Upazilla",
                             "unions": [
@@ -11913,7 +11613,6 @@
                             ]
                         },
                         {
-                            "id": 97,
                             "name": "কেশবপুর উপজেলা",
                             "name_en": "Keshabpur Upazilla",
                             "unions": [
@@ -11956,7 +11655,6 @@
                             ]
                         },
                         {
-                            "id": 98,
                             "name": "যশোর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -12023,7 +11721,6 @@
                             ]
                         },
                         {
-                            "id": 99,
                             "name": "শার্শা উপজেলা",
                             "name_en": "Sharsha Upazilla",
                             "unions": [
@@ -12076,12 +11773,10 @@
                     ]
                 },
                 {
-                    "id": 70,
                     "name": "সাতক্ষীরা জেলা",
                     "name_en": "Satkhira District",
                     "upazilas": [
                         {
-                            "id": 100,
                             "name": "আশাশুনি উপজেলা",
                             "name_en": "Assasuni Upazilla",
                             "unions": [
@@ -12132,7 +11827,6 @@
                             ]
                         },
                         {
-                            "id": 101,
                             "name": "দেবহাটা উপজেলা",
                             "name_en": "Debhata Upazilla",
                             "unions": [
@@ -12159,7 +11853,6 @@
                             ]
                         },
                         {
-                            "id": 102,
                             "name": "কলারোয়া উপজেলা",
                             "name_en": "Kalaroa Upazilla",
                             "unions": [
@@ -12214,7 +11907,6 @@
                             ]
                         },
                         {
-                            "id": 104,
                             "name": "সাতক্ষীরা সদর উপজেলা",
                             "name_en": "Satkhirasadar Upazilla",
                             "unions": [
@@ -12277,7 +11969,6 @@
                             ]
                         },
                         {
-                            "id": 105,
                             "name": "শ্যামনগর উপজেলা",
                             "name_en": "Shyamnagar Upazilla",
                             "unions": [
@@ -12332,7 +12023,6 @@
                             ]
                         },
                         {
-                            "id": 106,
                             "name": "তালা উপজেলা",
                             "name_en": "Tala Upazilla",
                             "unions": [
@@ -12387,7 +12077,6 @@
                             ]
                         },
                         {
-                            "id": 366,
                             "name": "কালিগঞ্জ উপজেলা",
                             "name_en": "Kaliganj Upazilla",
                             "unions": [
@@ -12444,12 +12133,10 @@
                     ]
                 },
                 {
-                    "id": 784,
                     "name": "মেহেরপুর জেলা",
                     "name_en": "Meherpur District",
                     "upazilas": [
                         {
-                            "id": 1045,
                             "name": "মুজিবনগর উপজেলা",
                             "name_en": "Mujibnagar Upazilla",
                             "unions": [
@@ -12472,7 +12159,6 @@
                             ]
                         },
                         {
-                            "id": 1046,
                             "name": "মেহেরপুর সদর উপজেলা",
                             "name_en": "Meherpursadar Upazilla",
                             "unions": [
@@ -12499,7 +12185,6 @@
                             ]
                         },
                         {
-                            "id": 1047,
                             "name": "গাংনী উপজেলা",
                             "name_en": "Gangni Upazilla",
                             "unions": [
@@ -12544,12 +12229,10 @@
                     ]
                 },
                 {
-                    "id": 995,
                     "name": "নড়াইল জেলা",
                     "name_en": "Narail District",
                     "upazilas": [
                         {
-                            "id": 1048,
                             "name": "নড়াইল সদর উপজেলা",
                             "name_en": "Narailsadar Upazilla",
                             "unions": [
@@ -12608,7 +12291,6 @@
                             ]
                         },
                         {
-                            "id": 1049,
                             "name": "লোহাগড়া উপজেলা",
                             "name_en": "Lohagara Upazilla",
                             "unions": [
@@ -12663,7 +12345,6 @@
                             ]
                         },
                         {
-                            "id": 1050,
                             "name": "কালিয়া উপজেলা",
                             "name_en": "Kalia Upazilla",
                             "unions": [
@@ -12728,12 +12409,10 @@
                     ]
                 },
                 {
-                    "id": 1037,
                     "name": "চুয়াডাঙ্গা জেলা",
                     "name_en": "Chuadanga District",
                     "upazilas": [
                         {
-                            "id": 1041,
                             "name": "চুয়াডাঙ্গা সদর উপজেলা",
                             "name_en": "Chuadangasadar Upazilla",
                             "unions": [
@@ -12768,7 +12447,6 @@
                             ]
                         },
                         {
-                            "id": 1042,
                             "name": "আলমডাঙ্গা উপজেলা",
                             "name_en": "Alamdanga Upazilla",
                             "unions": [
@@ -12835,7 +12513,6 @@
                             ]
                         },
                         {
-                            "id": 1043,
                             "name": "দামুড়হুদা উপজেলা",
                             "name_en": "Damurhuda Upazilla",
                             "unions": [
@@ -12870,7 +12547,6 @@
                             ]
                         },
                         {
-                            "id": 1044,
                             "name": "জীবননগর উপজেলা",
                             "name_en": "Jibannagar Upazilla",
                             "unions": [
@@ -12903,12 +12579,10 @@
                     ]
                 },
                 {
-                    "id": 1038,
                     "name": "কুষ্টিয়া জেলা",
                     "name_en": "Kushtia District",
                     "upazilas": [
                         {
-                            "id": 1051,
                             "name": "কুষ্টিয়া সদর উপজেলা",
                             "name_en": "Kushtiasadar Upazilla",
                             "unions": [
@@ -12971,7 +12645,6 @@
                             ]
                         },
                         {
-                            "id": 1052,
                             "name": "কুমারখালী উপজেলা",
                             "name_en": "Kumarkhali Upazilla",
                             "unions": [
@@ -13022,7 +12695,6 @@
                             ]
                         },
                         {
-                            "id": 1053,
                             "name": "খোকসা উপজেলা",
                             "name_en": "Khoksa Upazilla",
                             "unions": [
@@ -13065,7 +12737,6 @@
                             ]
                         },
                         {
-                            "id": 1054,
                             "name": "মিরপুর উপজেলা",
                             "name_en": "Mirpurkushtia Upazilla",
                             "unions": [
@@ -13124,7 +12795,6 @@
                             ]
                         },
                         {
-                            "id": 1055,
                             "name": "দৌলতপুর উপজেলা",
                             "name_en": "Daulatpur Upazilla",
                             "unions": [
@@ -13187,7 +12857,6 @@
                             ]
                         },
                         {
-                            "id": 1056,
                             "name": "ভেড়ামারা উপজেলা",
                             "name_en": "Bheramara Upazilla",
                             "unions": [
@@ -13220,12 +12889,10 @@
                     ]
                 },
                 {
-                    "id": 1039,
                     "name": "মাগুরা জেলা",
                     "name_en": "Magura District",
                     "upazilas": [
                         {
-                            "id": 1057,
                             "name": "শালিখা উপজেলা",
                             "name_en": "Shalikha Upazilla",
                             "unions": [
@@ -13260,7 +12927,6 @@
                             ]
                         },
                         {
-                            "id": 1058,
                             "name": "শ্রীপুর উপজেলা",
                             "name_en": "Sreepur Upazilla",
                             "unions": [
@@ -13299,7 +12965,6 @@
                             ]
                         },
                         {
-                            "id": 1059,
                             "name": "মাগুরা সদর উপজেলা",
                             "name_en": "Magurasadar Upazilla",
                             "unions": [
@@ -13358,7 +13023,6 @@
                             ]
                         },
                         {
-                            "id": 1060,
                             "name": "মহম্মদপুর উপজেলা",
                             "name_en": "Mohammadpur Upazilla",
                             "unions": [
@@ -13399,12 +13063,10 @@
                     ]
                 },
                 {
-                    "id": 2056,
                     "name": "খুলনা জেলা",
                     "name_en": "Khulna District",
                     "upazilas": [
                         {
-                            "id": 2136,
                             "name": "পাইকগাছা উপজেলা",
                             "name_en": "Paikgasa Upazilla",
                             "unions": [
@@ -13451,7 +13113,6 @@
                             ]
                         },
                         {
-                            "id": 2137,
                             "name": "ফুলতলা উপজেলা",
                             "name_en": "Fultola Upazilla",
                             "unions": [
@@ -13474,7 +13135,6 @@
                             ]
                         },
                         {
-                            "id": 2138,
                             "name": "দিঘলিয়া উপজেলা",
                             "name_en": "Digholia Upazilla",
                             "unions": [
@@ -13505,7 +13165,6 @@
                             ]
                         },
                         {
-                            "id": 2139,
                             "name": "রূপসা উপজেলা",
                             "name_en": "Rupsha Upazilla",
                             "unions": [
@@ -13532,7 +13191,6 @@
                             ]
                         },
                         {
-                            "id": 2140,
                             "name": "তেরখাদা উপজেলা",
                             "name_en": "Terokhada Upazilla",
                             "unions": [
@@ -13563,7 +13221,6 @@
                             ]
                         },
                         {
-                            "id": 2141,
                             "name": "ডুমুরিয়া উপজেলা",
                             "name_en": "Dumuria Upazilla",
                             "unions": [
@@ -13626,7 +13283,6 @@
                             ]
                         },
                         {
-                            "id": 2142,
                             "name": "বটিয়াঘাটা উপজেলা",
                             "name_en": "Botiaghata Upazilla",
                             "unions": [
@@ -13661,7 +13317,6 @@
                             ]
                         },
                         {
-                            "id": 2143,
                             "name": "দাকোপ উপজেলা",
                             "name_en": "Dakop Upazilla",
                             "unions": [
@@ -13704,7 +13359,6 @@
                             ]
                         },
                         {
-                            "id": 2144,
                             "name": "কয়রা উপজেলা",
                             "name_en": "Koyra Upazilla",
                             "unions": [
@@ -13741,12 +13395,10 @@
                     ]
                 },
                 {
-                    "id": 3240,
                     "name": "বাগেরহাট জেলা",
                     "name_en": "Bagerhat District",
                     "upazilas": [
                         {
-                            "id": 3260,
                             "name": "ফকিরহাট উপজেলা",
                             "name_en": "Fakirhat Upazilla",
                             "unions": [
@@ -13785,7 +13437,6 @@
                             ]
                         },
                         {
-                            "id": 3261,
                             "name": "বাগেরহাট সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -13832,7 +13483,6 @@
                             ]
                         },
                         {
-                            "id": 3262,
                             "name": "মোল্লাহাট উপজেলা",
                             "name_en": "Mollahat Upazilla",
                             "unions": [
@@ -13867,7 +13517,6 @@
                             ]
                         },
                         {
-                            "id": 3263,
                             "name": "শরণখোলা উপজেলা",
                             "name_en": "Sarankhola Upazilla",
                             "unions": [
@@ -13890,7 +13539,6 @@
                             ]
                         },
                         {
-                            "id": 3264,
                             "name": "রামপাল উপজেলা",
                             "name_en": "Rampal Upazilla",
                             "unions": [
@@ -13937,7 +13585,6 @@
                             ]
                         },
                         {
-                            "id": 3265,
                             "name": "মোড়েলগঞ্জ উপজেলা",
                             "name_en": "Morrelganj Upazilla",
                             "unions": [
@@ -14008,7 +13655,6 @@
                             ]
                         },
                         {
-                            "id": 3266,
                             "name": "কচুয়া উপজেলা",
                             "name_en": "Kachua Upazilla",
                             "unions": [
@@ -14043,7 +13689,6 @@
                             ]
                         },
                         {
-                            "id": 3267,
                             "name": "মোংলা উপজেলা",
                             "name_en": "Mongla Upazilla",
                             "unions": [
@@ -14074,7 +13719,6 @@
                             ]
                         },
                         {
-                            "id": 3268,
                             "name": "চিতলমারী উপজেলা",
                             "name_en": "Chitalmari Upazilla",
                             "unions": [
@@ -14111,12 +13755,10 @@
                     ]
                 },
                 {
-                    "id": 3247,
                     "name": "ঝিনাইদহ জেলা",
                     "name_en": "Jhenaidah District",
                     "upazilas": [
                         {
-                            "id": 3283,
                             "name": "ঝিনাইদহ সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -14191,7 +13833,6 @@
                             ]
                         },
                         {
-                            "id": 3284,
                             "name": "শৈলকুপা উপজেলা",
                             "name_en": "Shailkupa Upazilla",
                             "unions": [
@@ -14254,7 +13895,6 @@
                             ]
                         },
                         {
-                            "id": 3285,
                             "name": "হরিণাকুন্ডু উপজেলা",
                             "name_en": "Harinakundu Upazilla",
                             "unions": [
@@ -14293,7 +13933,6 @@
                             ]
                         },
                         {
-                            "id": 3286,
                             "name": "কালীগঞ্জ উপজেলা",
                             "name_en": "Kaliganj Upazilla",
                             "unions": [
@@ -14344,7 +13983,6 @@
                             ]
                         },
                         {
-                            "id": 3287,
                             "name": "কোটচাঁদপুর উপজেলা",
                             "name_en": "Kotchandpur Upazilla",
                             "unions": [
@@ -14371,7 +14009,6 @@
                             ]
                         },
                         {
-                            "id": 3288,
                             "name": "মহেশপুর উপজেলা",
                             "name_en": "Moheshpur Upazilla",
                             "unions": [
@@ -14430,17 +14067,14 @@
             ]
         },
         {
-            "id": 66,
             "name": "বরিশাল",
             "name_en": "Barishal",
             "districts": [
                 {
-                    "id": 72,
                     "name": "ঝালকাঠি জেলা",
                     "name_en": "Jhalakathi District",
                     "upazilas": [
                         {
-                            "id": 107,
                             "name": "ঝালকাঠি সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -14487,7 +14121,6 @@
                             ]
                         },
                         {
-                            "id": 108,
                             "name": "কাঠালিয়া উপজেলা",
                             "name_en": "Kathalia Upazilla",
                             "unions": [
@@ -14518,7 +14151,6 @@
                             ]
                         },
                         {
-                            "id": 109,
                             "name": "নলছিটি উপজেলা",
                             "name_en": "Nalchity Upazilla",
                             "unions": [
@@ -14565,7 +14197,6 @@
                             ]
                         },
                         {
-                            "id": 110,
                             "name": "রাজাপুর উপজেলা",
                             "name_en": "Rajapur Upazilla",
                             "unions": [
@@ -14598,12 +14229,10 @@
                     ]
                 },
                 {
-                    "id": 996,
                     "name": "পটুয়াখালী জেলা",
                     "name_en": "Patuakhali District",
                     "upazilas": [
                         {
-                            "id": 235,
                             "name": "বাউফল উপজেলা",
                             "name_en": "Bauphal Upazilla",
                             "unions": [
@@ -14666,7 +14295,6 @@
                             ]
                         },
                         {
-                            "id": 4752,
                             "name": "পটুয়াখালী সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -14721,7 +14349,6 @@
                             ]
                         },
                         {
-                            "id": 4753,
                             "name": "দুমকি উপজেলা",
                             "name_en": "Dumki Upazilla",
                             "unions": [
@@ -14748,7 +14375,6 @@
                             ]
                         },
                         {
-                            "id": 4754,
                             "name": "দশমিনা উপজেলা",
                             "name_en": "Dashmina Upazilla",
                             "unions": [
@@ -14779,7 +14405,6 @@
                             ]
                         },
                         {
-                            "id": 4801,
                             "name": "কলাপাড়া উপজেলা",
                             "name_en": "Kalapara Upazilla",
                             "unions": [
@@ -14834,7 +14459,6 @@
                             ]
                         },
                         {
-                            "id": 4847,
                             "name": "মির্জাগঞ্জ উপজেলা",
                             "name_en": "Mirzaganj Upazilla",
                             "unions": [
@@ -14865,7 +14489,6 @@
                             ]
                         },
                         {
-                            "id": 4888,
                             "name": "গলাচিপা উপজেলা",
                             "name_en": "Galachipa Upazilla",
                             "unions": [
@@ -14920,7 +14543,6 @@
                             ]
                         },
                         {
-                            "id": 6107,
                             "name": "রাঙ্গাবালী উপজেলা",
                             "name_en": "Rangabali Upazilla",
                             "unions": [
@@ -14949,12 +14571,10 @@
                     ]
                 },
                 {
-                    "id": 997,
                     "name": "পিরোজপুর জেলা",
                     "name_en": "Pirojpur District",
                     "upazilas": [
                         {
-                            "id": 3271,
                             "name": "পিরোজপুর সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -14989,7 +14609,6 @@
                             ]
                         },
                         {
-                            "id": 3272,
                             "name": "নাজিরপুর উপজেলা",
                             "name_en": "Nazirpur Upazilla",
                             "unions": [
@@ -15032,7 +14651,6 @@
                             ]
                         },
                         {
-                            "id": 3273,
                             "name": "কাউখালী উপজেলা",
                             "name_en": "Kawkhali Upazilla",
                             "unions": [
@@ -15059,7 +14677,6 @@
                             ]
                         },
                         {
-                            "id": 3274,
                             "name": "জিয়ানগর উপজেলা",
                             "name_en": "Zianagar Upazilla",
                             "unions": [
@@ -15078,7 +14695,6 @@
                             ]
                         },
                         {
-                            "id": 3275,
                             "name": "ভান্ডারিয়া উপজেলা",
                             "name_en": "Bhandaria Upazilla",
                             "unions": [
@@ -15113,7 +14729,6 @@
                             ]
                         },
                         {
-                            "id": 3276,
                             "name": "মঠবাড়ীয়া উপজেলা",
                             "name_en": "Mathbaria Upazilla",
                             "unions": [
@@ -15164,7 +14779,6 @@
                             ]
                         },
                         {
-                            "id": 3277,
                             "name": "নেছারাবাদ উপজেলা",
                             "name_en": "Nesarabad Upazilla",
                             "unions": [
@@ -15213,12 +14827,10 @@
                     ]
                 },
                 {
-                    "id": 999,
                     "name": "বরিশাল জেলা",
                     "name_en": "Barishal District",
                     "upazilas": [
                         {
-                            "id": 4056,
                             "name": "বরিশাল সদর উপজেলা",
                             "name_en": "Barishalsadar Upazilla",
                             "unions": [
@@ -15265,7 +14877,6 @@
                             ]
                         },
                         {
-                            "id": 4057,
                             "name": "বাকেরগঞ্জ উপজেলা",
                             "name_en": "Bakerganj Upazilla",
                             "unions": [
@@ -15328,7 +14939,6 @@
                             ]
                         },
                         {
-                            "id": 4058,
                             "name": "বাবুগঞ্জ উপজেলা",
                             "name_en": "Babuganj Upazilla",
                             "unions": [
@@ -15359,7 +14969,6 @@
                             ]
                         },
                         {
-                            "id": 4059,
                             "name": "উজিরপুর উপজেলা",
                             "name_en": "Wazirpur Upazilla",
                             "unions": [
@@ -15402,7 +15011,6 @@
                             ]
                         },
                         {
-                            "id": 4060,
                             "name": "বানারীপাড়া উপজেলা",
                             "name_en": "Banaripara Upazilla",
                             "unions": [
@@ -15441,7 +15049,6 @@
                             ]
                         },
                         {
-                            "id": 4061,
                             "name": "গৌরনদী উপজেলা",
                             "name_en": "Gournadi Upazilla",
                             "unions": [
@@ -15476,7 +15083,6 @@
                             ]
                         },
                         {
-                            "id": 4062,
                             "name": "আগৈলঝাড়া উপজেলা",
                             "name_en": "Agailjhara Upazilla",
                             "unions": [
@@ -15503,7 +15109,6 @@
                             ]
                         },
                         {
-                            "id": 4063,
                             "name": "মেহেন্দিগঞ্জ উপজেলা",
                             "name_en": "Mehendiganj Upazilla",
                             "unions": [
@@ -15562,7 +15167,6 @@
                             ]
                         },
                         {
-                            "id": 4064,
                             "name": "মুলাদী উপজেলা",
                             "name_en": "Muladi Upazilla",
                             "unions": [
@@ -15597,7 +15201,6 @@
                             ]
                         },
                         {
-                            "id": 4065,
                             "name": "হিজলা উপজেলা",
                             "name_en": "Hizla Upazilla",
                             "unions": [
@@ -15630,12 +15233,10 @@
                     ]
                 },
                 {
-                    "id": 1187,
                     "name": "ভোলা জেলা",
                     "name_en": "Bhola District",
                     "upazilas": [
                         {
-                            "id": 5046,
                             "name": "ভোলা সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -15694,7 +15295,6 @@
                             ]
                         },
                         {
-                            "id": 5061,
                             "name": "বোরহান উদ্দিন উপজেলা",
                             "name_en": "Borhanuddin Upazilla",
                             "unions": [
@@ -15721,7 +15321,6 @@
                             ]
                         },
                         {
-                            "id": 5062,
                             "name": "চরফ্যাশন উপজেলা",
                             "name_en": "Charfesson Upazilla",
                             "unions": [
@@ -15808,7 +15407,6 @@
                             ]
                         },
                         {
-                            "id": 5063,
                             "name": "দৌলতখান উপজেলা",
                             "name_en": "Doulatkhan Upazilla",
                             "unions": [
@@ -15851,7 +15449,6 @@
                             ]
                         },
                         {
-                            "id": 5160,
                             "name": "মনপুরা উপজেলা",
                             "name_en": "Monpura Upazilla",
                             "unions": [
@@ -15874,7 +15471,6 @@
                             ]
                         },
                         {
-                            "id": 5161,
                             "name": "তজুমদ্দিন উপজেলা",
                             "name_en": "Tazumuddin Upazilla",
                             "unions": [
@@ -15901,7 +15497,6 @@
                             ]
                         },
                         {
-                            "id": 5162,
                             "name": "লালমোহন উপজেলা",
                             "name_en": "Lalmohan Upazilla",
                             "unions": [
@@ -15946,12 +15541,10 @@
                     ]
                 },
                 {
-                    "id": 3107,
                     "name": "বরগুনা জেলা",
                     "name_en": "Barguna District",
                     "upazilas": [
                         {
-                            "id": 4350,
                             "name": "আমতলী উপজেলা",
                             "name_en": "Amtali Upazilla",
                             "unions": [
@@ -15990,7 +15583,6 @@
                             ]
                         },
                         {
-                            "id": 4413,
                             "name": "বরগুনা সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -16037,7 +15629,6 @@
                             ]
                         },
                         {
-                            "id": 4414,
                             "name": "বেতাগী উপজেলা",
                             "name_en": "Betagi Upazilla",
                             "unions": [
@@ -16072,7 +15663,6 @@
                             ]
                         },
                         {
-                            "id": 4485,
                             "name": "বামনা উপজেলা",
                             "name_en": "Bamna Upazilla",
                             "unions": [
@@ -16095,7 +15685,6 @@
                             ]
                         },
                         {
-                            "id": 4486,
                             "name": "পাথরঘাটা উপজেলা",
                             "name_en": "Pathorghata Upazilla",
                             "unions": [
@@ -16130,7 +15719,6 @@
                             ]
                         },
                         {
-                            "id": 6155,
                             "name": "তালতলি উপজেলা",
                             "name_en": "Taltali Upazilla",
                             "unions": [
@@ -16169,17 +15757,14 @@
             ]
         },
         {
-            "id": 69,
             "name": "রংপুর",
             "name_en": "Rangpur",
             "districts": [
                 {
-                    "id": 146,
                     "name": "পঞ্চগড় জেলা",
                     "name_en": "Panchagarh District",
                     "upazilas": [
                         {
-                            "id": 149,
                             "name": "পঞ্চগড় সদর",
                             "name_en": "Panchagarhsadar Upazilla",
                             "unions": [
@@ -16226,7 +15811,6 @@
                             ]
                         },
                         {
-                            "id": 151,
                             "name": "দেবীগঞ্জ উপজেলা",
                             "name_en": "Debiganj Upazilla",
                             "unions": [
@@ -16273,7 +15857,6 @@
                             ]
                         },
                         {
-                            "id": 153,
                             "name": "বোদা উপজেলা",
                             "name_en": "Boda Upazilla",
                             "unions": [
@@ -16320,7 +15903,6 @@
                             ]
                         },
                         {
-                            "id": 154,
                             "name": "আটোয়ারী উপজেলা",
                             "name_en": "Atwari Upazilla",
                             "unions": [
@@ -16351,7 +15933,6 @@
                             ]
                         },
                         {
-                            "id": 156,
                             "name": "তেতুলিয়া উপজেলা",
                             "name_en": "Tetulia Upazilla",
                             "unions": [
@@ -16392,12 +15973,10 @@
                     ]
                 },
                 {
-                    "id": 994,
                     "name": "দিনাজপুর জেলা",
                     "name_en": "Dinajpur District",
                     "upazilas": [
                         {
-                            "id": 1108,
                             "name": "নবাবগঞ্জ উপজেলা",
                             "name_en": "Nawabganj Upazilla",
                             "unions": [
@@ -16440,7 +16019,6 @@
                             ]
                         },
                         {
-                            "id": 1109,
                             "name": "বীরগঞ্জ উপজেলা",
                             "name_en": "Birganj Upazilla",
                             "unions": [
@@ -16491,7 +16069,6 @@
                             ]
                         },
                         {
-                            "id": 1110,
                             "name": "ঘোড়াঘাট উপজেলা",
                             "name_en": "Ghoraghat Upazilla",
                             "unions": [
@@ -16514,7 +16091,6 @@
                             ]
                         },
                         {
-                            "id": 1111,
                             "name": "বিরামপুর উপজেলা",
                             "name_en": "Birampur Upazilla",
                             "unions": [
@@ -16549,7 +16125,6 @@
                             ]
                         },
                         {
-                            "id": 1112,
                             "name": "পার্বতীপুর উপজেলা",
                             "name_en": "Parbatipur Upazilla",
                             "unions": [
@@ -16596,7 +16171,6 @@
                             ]
                         },
                         {
-                            "id": 1113,
                             "name": "বোচাগঞ্জ উপজেলা",
                             "name_en": "Bochaganj Upazilla",
                             "unions": [
@@ -16627,7 +16201,6 @@
                             ]
                         },
                         {
-                            "id": 1114,
                             "name": "কাহারোল উপজেলা",
                             "name_en": "Kaharol Upazilla",
                             "unions": [
@@ -16658,7 +16231,6 @@
                             ]
                         },
                         {
-                            "id": 1115,
                             "name": "ফুলবাড়ী উপজেলা",
                             "name_en": "Fulbari Upazilla",
                             "unions": [
@@ -16693,7 +16265,6 @@
                             ]
                         },
                         {
-                            "id": 1116,
                             "name": "দিনাজপুর সদর উপজেলা",
                             "name_en": "Dinajpursadar Upazilla",
                             "unions": [
@@ -16740,7 +16311,6 @@
                             ]
                         },
                         {
-                            "id": 1118,
                             "name": "হাকিমপুর উপজেলা",
                             "name_en": "Hakimpur Upazilla",
                             "unions": [
@@ -16759,7 +16329,6 @@
                             ]
                         },
                         {
-                            "id": 1119,
                             "name": "খানসামা উপজেলা",
                             "name_en": "Khansama Upazilla",
                             "unions": [
@@ -16790,7 +16359,6 @@
                             ]
                         },
                         {
-                            "id": 1120,
                             "name": "বিরল উপজেলা",
                             "name_en": "Birol Upazilla",
                             "unions": [
@@ -16841,7 +16409,6 @@
                             ]
                         },
                         {
-                            "id": 1144,
                             "name": "চিরিরবন্দর উপজেলা",
                             "name_en": "Chirirbandar Upazilla",
                             "unions": [
@@ -16898,12 +16465,10 @@
                     ]
                 },
                 {
-                    "id": 1079,
                     "name": "লালমনিরহাট জেলা",
                     "name_en": "Lalmonirhat District",
                     "upazilas": [
                         {
-                            "id": 1100,
                             "name": "লালমনিরহাট সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -16946,7 +16511,6 @@
                             ]
                         },
                         {
-                            "id": 1103,
                             "name": "কালীগঞ্জ উপজেলা",
                             "name_en": "Kaliganj Upazilla",
                             "unions": [
@@ -16985,7 +16549,6 @@
                             ]
                         },
                         {
-                            "id": 1104,
                             "name": "হাতীবান্ধা উপজেলা",
                             "name_en": "Hatibandha Upazilla",
                             "unions": [
@@ -17040,7 +16603,6 @@
                             ]
                         },
                         {
-                            "id": 1106,
                             "name": "পাটগ্রাম উপজেলা",
                             "name_en": "Patgram Upazilla",
                             "unions": [
@@ -17079,7 +16641,6 @@
                             ]
                         },
                         {
-                            "id": 1625,
                             "name": "আদিতমারী উপজেলা",
                             "name_en": "Aditmari Upazilla",
                             "unions": [
@@ -17120,12 +16681,10 @@
                     ]
                 },
                 {
-                    "id": 1080,
                     "name": "নীলফামারী জেলা",
                     "name_en": "Nilphamari District",
                     "upazilas": [
                         {
-                            "id": 1094,
                             "name": "সৈয়দপুর উপজেলা",
                             "name_en": "Syedpur Upazilla",
                             "unions": [
@@ -17152,7 +16711,6 @@
                             ]
                         },
                         {
-                            "id": 1095,
                             "name": "ডোমার উপজেলা",
                             "name_en": "Domar Upazilla",
                             "unions": [
@@ -17199,7 +16757,6 @@
                             ]
                         },
                         {
-                            "id": 1096,
                             "name": "ডিমলা উপজেলা",
                             "name_en": "Dimla Upazilla",
                             "unions": [
@@ -17246,7 +16803,6 @@
                             ]
                         },
                         {
-                            "id": 1097,
                             "name": "জলঢাকা উপজেলা",
                             "name_en": "Jaldhaka Upazilla",
                             "unions": [
@@ -17297,7 +16853,6 @@
                             ]
                         },
                         {
-                            "id": 1098,
                             "name": "কিশোরগঞ্জ উপজেলা",
                             "name_en": "Kishorganj Upazilla",
                             "unions": [
@@ -17340,7 +16895,6 @@
                             ]
                         },
                         {
-                            "id": 1099,
                             "name": "নীলফামারী সদর উপজেলা",
                             "name_en": "Nilphamarisadar Upazilla",
                             "unions": [
@@ -17409,12 +16963,10 @@
                     ]
                 },
                 {
-                    "id": 1081,
                     "name": "গাইবান্ধা জেলা",
                     "name_en": "Gaibandha District",
                     "upazilas": [
                         {
-                            "id": 1121,
                             "name": "সাদুল্লাপুর উপজেলা",
                             "name_en": "Sadullapur Upazilla",
                             "unions": [
@@ -17465,7 +17017,6 @@
                             ]
                         },
                         {
-                            "id": 1122,
                             "name": "গাইবান্ধা সদর উপজেলা",
                             "name_en": "Gaibandhasadar Upazilla",
                             "unions": [
@@ -17524,7 +17075,6 @@
                             ]
                         },
                         {
-                            "id": 1123,
                             "name": "পলাশবাড়ী উপজেলা",
                             "name_en": "Palashbari Upazilla",
                             "unions": [
@@ -17567,7 +17117,6 @@
                             ]
                         },
                         {
-                            "id": 1124,
                             "name": "সাঘাটা উপজেলা",
                             "name_en": "Saghata Upazilla",
                             "unions": [
@@ -17614,7 +17163,6 @@
                             ]
                         },
                         {
-                            "id": 1127,
                             "name": "গোবিন্দগঞ্জ উপজেলা",
                             "name_en": "Gobindaganj Upazilla",
                             "unions": [
@@ -17689,7 +17237,6 @@
                             ]
                         },
                         {
-                            "id": 1128,
                             "name": "সুন্দরগঞ্জ উপজেলা",
                             "name_en": "Sundarganj Upazilla",
                             "unions": [
@@ -17756,7 +17303,6 @@
                             ]
                         },
                         {
-                            "id": 1129,
                             "name": "ফুলছড়ি উপজেলা",
                             "name_en": "Phulchari Upazilla",
                             "unions": [
@@ -17793,12 +17339,10 @@
                     ]
                 },
                 {
-                    "id": 1928,
                     "name": "ঠাকুরগাঁও জেলা",
                     "name_en": "Thakurgaon District",
                     "upazilas": [
                         {
-                            "id": 1929,
                             "name": "ঠাকুরগাঁও সদর উপজেলা",
                             "name_en": "Thakurgaonsadar Upazilla",
                             "unions": [
@@ -17889,7 +17433,6 @@
                             ]
                         },
                         {
-                            "id": 1930,
                             "name": "পীরগঞ্জ উপজেলা",
                             "name_en": "Pirganj Upazilla",
                             "unions": [
@@ -17936,7 +17479,6 @@
                             ]
                         },
                         {
-                            "id": 1931,
                             "name": "রাণীশংকৈল উপজেলা",
                             "name_en": "Ranisankail Upazilla",
                             "unions": [
@@ -17975,7 +17517,6 @@
                             ]
                         },
                         {
-                            "id": 1932,
                             "name": "হরিপুর উপজেলা",
                             "name_en": "Haripur Upazilla",
                             "unions": [
@@ -18006,7 +17547,6 @@
                             ]
                         },
                         {
-                            "id": 1933,
                             "name": "বালিয়াডাঙ্গী উপজেলা",
                             "name_en": "Baliadangi Upazilla",
                             "unions": [
@@ -18047,12 +17587,10 @@
                     ]
                 },
                 {
-                    "id": 1987,
                     "name": "রংপুর জেলা",
                     "name_en": "Rangpur District",
                     "upazilas": [
                         {
-                            "id": 1935,
                             "name": "রংপুর সদর উপজেলা",
                             "name_en": "Rangpursadar Upazilla",
                             "unions": [
@@ -18107,7 +17645,6 @@
                             ]
                         },
                         {
-                            "id": 1936,
                             "name": "গংগাচড়া উপজেলা",
                             "name_en": "Gangachara Upazilla",
                             "unions": [
@@ -18150,7 +17687,6 @@
                             ]
                         },
                         {
-                            "id": 1937,
                             "name": "তারাগঞ্জ উপজেলা",
                             "name_en": "Taragonj Upazilla",
                             "unions": [
@@ -18177,7 +17713,6 @@
                             ]
                         },
                         {
-                            "id": 1938,
                             "name": "বদরগঞ্জ উপজেলা",
                             "name_en": "Badargonj Upazilla",
                             "unions": [
@@ -18224,7 +17759,6 @@
                             ]
                         },
                         {
-                            "id": 1939,
                             "name": "মিঠাপুকুর উপজেলা",
                             "name_en": "Mithapukur Upazilla",
                             "unions": [
@@ -18299,7 +17833,6 @@
                             ]
                         },
                         {
-                            "id": 1940,
                             "name": "পীরগঞ্জ উপজেলা",
                             "name_en": "Pirgonj Upazilla",
                             "unions": [
@@ -18366,7 +17899,6 @@
                             ]
                         },
                         {
-                            "id": 1941,
                             "name": "কাউনিয়া উপজেলা",
                             "name_en": "Kaunia Upazilla",
                             "unions": [
@@ -18397,7 +17929,6 @@
                             ]
                         },
                         {
-                            "id": 1942,
                             "name": "পীরগাছা উপজেলা",
                             "name_en": "Pirgacha Upazilla",
                             "unions": [
@@ -18442,12 +17973,10 @@
                     ]
                 },
                 {
-                    "id": 3323,
                     "name": "কুড়িগ্রাম জেলা",
                     "name_en": "Kurigram District",
                     "upazilas": [
                         {
-                            "id": 1951,
                             "name": "কুড়িগ্রাম সদর উপজেলা",
                             "name_en": "Kurigramsadar Upazilla",
                             "unions": [
@@ -18486,7 +18015,6 @@
                             ]
                         },
                         {
-                            "id": 1952,
                             "name": "নাগেশ্বরী উপজেলা",
                             "name_en": "Nageshwari Upazilla",
                             "unions": [
@@ -18549,7 +18077,6 @@
                             ]
                         },
                         {
-                            "id": 1953,
                             "name": "ভুরুঙ্গামারী উপজেলা",
                             "name_en": "Bhurungamari Upazilla",
                             "unions": [
@@ -18596,7 +18123,6 @@
                             ]
                         },
                         {
-                            "id": 1954,
                             "name": "ফুলবাড়ী উপজেলা",
                             "name_en": "Phulbari Upazilla",
                             "unions": [
@@ -18627,7 +18153,6 @@
                             ]
                         },
                         {
-                            "id": 1955,
                             "name": "রাজারহাট উপজেলা",
                             "name_en": "Rajarhat Upazilla",
                             "unions": [
@@ -18662,7 +18187,6 @@
                             ]
                         },
                         {
-                            "id": 1956,
                             "name": "উলিপুর উপজেলা",
                             "name_en": "Ulipur Upazilla",
                             "unions": [
@@ -18721,7 +18245,6 @@
                             ]
                         },
                         {
-                            "id": 1957,
                             "name": "চিলমারী উপজেলা",
                             "name_en": "Chilmari Upazilla",
                             "unions": [
@@ -18752,7 +18275,6 @@
                             ]
                         },
                         {
-                            "id": 1958,
                             "name": "রৌমারী উপজেলা",
                             "name_en": "Rowmari Upazilla",
                             "unions": [
@@ -18779,7 +18301,6 @@
                             ]
                         },
                         {
-                            "id": 1959,
                             "name": "চর রাজিবপুর উপজেলা",
                             "name_en": "Charrajibpur Upazilla",
                             "unions": [
@@ -18802,17 +18323,14 @@
             ]
         },
         {
-            "id": 67,
             "name": "সিলেট",
             "name_en": "Sylhet",
             "districts": [
                 {
-                    "id": 128,
                     "name": "সিলেট জেলা",
                     "name_en": "Sylhet District",
                     "upazilas": [
                         {
-                            "id": 129,
                             "name": "বালাগঞ্জ উপজেলা",
                             "name_en": "Balaganj Upazilla",
                             "unions": [
@@ -18875,7 +18393,6 @@
                             ]
                         },
                         {
-                            "id": 130,
                             "name": "বিয়ানীবাজার উপজেলা",
                             "name_en": "Beanibazar Upazilla",
                             "unions": [
@@ -18922,7 +18439,6 @@
                             ]
                         },
                         {
-                            "id": 131,
                             "name": "বিশ্বনাথ উপজেলা",
                             "name_en": "Bishwanath Upazilla",
                             "unions": [
@@ -18961,7 +18477,6 @@
                             ]
                         },
                         {
-                            "id": 132,
                             "name": "কোম্পানীগঞ্জ উপজেলা",
                             "name_en": "Companiganj Upazilla",
                             "unions": [
@@ -18992,7 +18507,6 @@
                             ]
                         },
                         {
-                            "id": 133,
                             "name": "ফেঞ্চুগঞ্জ উপজেলা",
                             "name_en": "Fenchuganj Upazilla",
                             "unions": [
@@ -19019,7 +18533,6 @@
                             ]
                         },
                         {
-                            "id": 134,
                             "name": "গোলাপগঞ্জ উপজেলা",
                             "name_en": "Golapganj Upazilla",
                             "unions": [
@@ -19066,7 +18579,6 @@
                             ]
                         },
                         {
-                            "id": 135,
                             "name": "গোয়াইনঘাট উপজেলা",
                             "name_en": "Gowainghat Upazilla",
                             "unions": [
@@ -19109,7 +18621,6 @@
                             ]
                         },
                         {
-                            "id": 136,
                             "name": "জৈন্তাপুর উপজেলা",
                             "name_en": "Jaintiapur Upazilla",
                             "unions": [
@@ -19140,7 +18651,6 @@
                             ]
                         },
                         {
-                            "id": 137,
                             "name": "কানাইঘাট উপজেলা",
                             "name_en": "Kanaighat Upazilla",
                             "unions": [
@@ -19183,7 +18693,6 @@
                             ]
                         },
                         {
-                            "id": 138,
                             "name": "সিলেট সদর উপজেলা",
                             "name_en": "Sylhetsadar Upazilla",
                             "unions": [
@@ -19222,7 +18731,6 @@
                             ]
                         },
                         {
-                            "id": 139,
                             "name": "জকিগঞ্জ উপজেলা",
                             "name_en": "Zakiganj Upazilla",
                             "unions": [
@@ -19265,7 +18773,6 @@
                             ]
                         },
                         {
-                            "id": 175,
                             "name": "দক্ষিণ সুরমা উপজেলা",
                             "name_en": "Dakshinsurma Upazilla",
                             "unions": [
@@ -19312,7 +18819,6 @@
                             ]
                         },
                         {
-                            "id": 6193,
                             "name": "ওসমানী নগর",
                             "name_en": "Osmaninagar Upazilla",
                             "unions": [
@@ -19353,12 +18859,10 @@
                     ]
                 },
                 {
-                    "id": 140,
                     "name": "মৌলভীবাজার জেলা",
                     "name_en": "Moulvibazar District",
                     "upazilas": [
                         {
-                            "id": 141,
                             "name": "বড়লেখা উপজেলা",
                             "name_en": "Barlekha Upazilla",
                             "unions": [
@@ -19409,7 +18913,6 @@
                             ]
                         },
                         {
-                            "id": 142,
                             "name": "কমলগঞ্জ উপজেলা",
                             "name_en": "Kamolganj Upazilla",
                             "unions": [
@@ -19452,7 +18955,6 @@
                             ]
                         },
                         {
-                            "id": 143,
                             "name": "কুলাউড়া উপজেলা",
                             "name_en": "Kulaura Upazilla",
                             "unions": [
@@ -19511,7 +19013,6 @@
                             ]
                         },
                         {
-                            "id": 144,
                             "name": "মৌলভীবাজার সদর উপজেলা",
                             "name_en": "Moulvibazarsadar Upazilla",
                             "unions": [
@@ -19566,7 +19067,6 @@
                             ]
                         },
                         {
-                            "id": 145,
                             "name": "রাজনগর উপজেলা",
                             "name_en": "Rajnagar Upazilla",
                             "unions": [
@@ -19605,7 +19105,6 @@
                             ]
                         },
                         {
-                            "id": 147,
                             "name": "শ্রীমঙ্গল উপজেলা",
                             "name_en": "Sreemangal Upazilla",
                             "unions": [
@@ -19648,7 +19147,6 @@
                             ]
                         },
                         {
-                            "id": 148,
                             "name": "জুড়ী উপজেলা",
                             "name_en": "Juri Upazilla",
                             "unions": [
@@ -19681,12 +19179,10 @@
                     ]
                 },
                 {
-                    "id": 1000,
                     "name": "হবিগঞ্জ জেলা",
                     "name_en": "Habiganj District",
                     "upazilas": [
                         {
-                            "id": 2428,
                             "name": "নবীগঞ্জ উপজেলা",
                             "name_en": "Nabiganj Upazilla",
                             "unions": [
@@ -19745,7 +19241,6 @@
                             ]
                         },
                         {
-                            "id": 2430,
                             "name": "বাহুবল উপজেলা",
                             "name_en": "Bahubal Upazilla",
                             "unions": [
@@ -19780,7 +19275,6 @@
                             ]
                         },
                         {
-                            "id": 2432,
                             "name": "আজমিরীগঞ্জ উপজেলা",
                             "name_en": "Ajmiriganj Upazilla",
                             "unions": [
@@ -19807,7 +19301,6 @@
                             ]
                         },
                         {
-                            "id": 2435,
                             "name": "বানিয়াচং উপজেলা",
                             "name_en": "Baniachong Upazilla",
                             "unions": [
@@ -19874,7 +19367,6 @@
                             ]
                         },
                         {
-                            "id": 2438,
                             "name": "লাখাই উপজেলা",
                             "name_en": "Lakhai Upazilla",
                             "unions": [
@@ -19905,7 +19397,6 @@
                             ]
                         },
                         {
-                            "id": 2444,
                             "name": "চুনারুঘাট উপজেলা",
                             "name_en": "Chunarughat Upazilla",
                             "unions": [
@@ -19952,7 +19443,6 @@
                             ]
                         },
                         {
-                            "id": 2446,
                             "name": "হবিগঞ্জ সদর উপজেলা",
                             "name_en": "Habiganjsadar Upazilla",
                             "unions": [
@@ -19991,7 +19481,6 @@
                             ]
                         },
                         {
-                            "id": 2450,
                             "name": "মাধবপুর উপজেলা",
                             "name_en": "Madhabpur Upazilla",
                             "unions": [
@@ -20042,7 +19531,6 @@
                             ]
                         },
                         {
-                            "id": 6205,
                             "name": "শায়েস্তাগঞ্জ উপজেলা",
                             "name_en": "Shayestaganj Upazilla",
                             "unions": [
@@ -20063,12 +19551,10 @@
                     ]
                 },
                 {
-                    "id": 1008,
                     "name": "সুনামগঞ্জ জেলা",
                     "name_en": "Sunamganj District",
                     "upazilas": [
                         {
-                            "id": 1176,
                             "name": "সুনামগঞ্জ সদর উপজেলা",
                             "name_en": "Sadar Upazilla",
                             "unions": [
@@ -20111,7 +19597,6 @@
                             ]
                         },
                         {
-                            "id": 2217,
                             "name": "দক্ষিণ সুনামগঞ্জ উপজেলা",
                             "name_en": "Southsunamganj Upazilla",
                             "unions": [
@@ -20150,7 +19635,6 @@
                             ]
                         },
                         {
-                            "id": 2249,
                             "name": "বিশ্বম্ভরপুর উপজেলা",
                             "name_en": "Bishwambarpur Upazilla",
                             "unions": [
@@ -20177,7 +19661,6 @@
                             ]
                         },
                         {
-                            "id": 2559,
                             "name": "ছাতক উপজেলা",
                             "name_en": "Chhatak Upazilla",
                             "unions": [
@@ -20236,7 +19719,6 @@
                             ]
                         },
                         {
-                            "id": 2560,
                             "name": "জগন্নাথপুর উপজেলা",
                             "name_en": "Jagannathpur Upazilla",
                             "unions": [
@@ -20275,7 +19757,6 @@
                             ]
                         },
                         {
-                            "id": 2561,
                             "name": "দোয়ারাবাজার উপজেলা",
                             "name_en": "Dowarabazar Upazilla",
                             "unions": [
@@ -20318,7 +19799,6 @@
                             ]
                         },
                         {
-                            "id": 2798,
                             "name": "তাহিরপুর উপজেলা",
                             "name_en": "Tahirpur Upazilla",
                             "unions": [
@@ -20353,7 +19833,6 @@
                             ]
                         },
                         {
-                            "id": 2800,
                             "name": "ধর্মপাশা উপজেলা",
                             "name_en": "Dharmapasha Upazilla",
                             "unions": [
@@ -20400,7 +19879,6 @@
                             ]
                         },
                         {
-                            "id": 2801,
                             "name": "জামালগঞ্জ উপজেলা",
                             "name_en": "Jamalganj Upazilla",
                             "unions": [
@@ -20427,7 +19905,6 @@
                             ]
                         },
                         {
-                            "id": 2956,
                             "name": "শাল্লা উপজেলা",
                             "name_en": "Shalla Upazilla",
                             "unions": [
@@ -20450,7 +19927,6 @@
                             ]
                         },
                         {
-                            "id": 2968,
                             "name": "দিরাই উপজেলা",
                             "name_en": "Derai Upazilla",
                             "unions": [
@@ -20497,17 +19973,14 @@
             ]
         },
         {
-            "id": 6175,
             "name": "ময়মনসিংহ",
             "name_en": "Mymensingh",
             "districts": [
                 {
-                    "id": 1944,
                     "name": "শেরপুর জেলা",
                     "name_en": "Sherpur District",
                     "upazilas": [
                         {
-                            "id": 1945,
                             "name": "শেরপুর সদর উপজেলা",
                             "name_en": "Sherpursadar Upazilla",
                             "unions": [
@@ -20570,7 +20043,6 @@
                             ]
                         },
                         {
-                            "id": 1946,
                             "name": "নালিতাবাড়ী উপজেলা",
                             "name_en": "Nalitabari Upazilla",
                             "unions": [
@@ -20625,7 +20097,6 @@
                             ]
                         },
                         {
-                            "id": 1947,
                             "name": "শ্রীবরদী উপজেলা",
                             "name_en": "Sreebordi Upazilla",
                             "unions": [
@@ -20672,7 +20143,6 @@
                             ]
                         },
                         {
-                            "id": 1948,
                             "name": "নকলা উপজেলা",
                             "name_en": "Nokla Upazilla",
                             "unions": [
@@ -20715,7 +20185,6 @@
                             ]
                         },
                         {
-                            "id": 1949,
                             "name": "ঝিনাইগাতী উপজেলা",
                             "name_en": "Jhenaigati Upazilla",
                             "unions": [
@@ -20752,12 +20221,10 @@
                     ]
                 },
                 {
-                    "id": 2001,
                     "name": "ময়মনসিংহ জেলা",
                     "name_en": "Mymensingh District",
                     "upazilas": [
                         {
-                            "id": 2061,
                             "name": "ফুলবাড়ীয়া উপজেলা",
                             "name_en": "Fulbaria Upazilla",
                             "unions": [
@@ -20816,7 +20283,6 @@
                             ]
                         },
                         {
-                            "id": 2067,
                             "name": "ত্রিশাল উপজেলা",
                             "name_en": "Trishal Upazilla",
                             "unions": [
@@ -20871,7 +20337,6 @@
                             ]
                         },
                         {
-                            "id": 2145,
                             "name": "ভালুকা উপজেলা",
                             "name_en": "Bhaluka Upazilla",
                             "unions": [
@@ -20922,7 +20387,6 @@
                             ]
                         },
                         {
-                            "id": 2154,
                             "name": "মুক্তাগাছা উপজেলা",
                             "name_en": "Muktagacha Upazilla",
                             "unions": [
@@ -20969,7 +20433,6 @@
                             ]
                         },
                         {
-                            "id": 2348,
                             "name": "ময়মনসিংহ সদর উপজেলা",
                             "name_en": "Mymensinghsadar Upazilla",
                             "unions": [
@@ -21028,7 +20491,6 @@
                             ]
                         },
                         {
-                            "id": 2349,
                             "name": "ধোবাউড়া উপজেলা",
                             "name_en": "Dhobaura Upazilla",
                             "unions": [
@@ -21063,7 +20525,6 @@
                             ]
                         },
                         {
-                            "id": 2374,
                             "name": "ফুলপুর উপজেলা",
                             "name_en": "Phulpur Upazilla",
                             "unions": [
@@ -21150,7 +20611,6 @@
                             ]
                         },
                         {
-                            "id": 2408,
                             "name": "হালুয়াঘাট উপজেলা",
                             "name_en": "Haluaghat Upazilla",
                             "unions": [
@@ -21205,7 +20665,6 @@
                             ]
                         },
                         {
-                            "id": 2702,
                             "name": "গৌরীপুর উপজেলা",
                             "name_en": "Gouripur Upazilla",
                             "unions": [
@@ -21252,7 +20711,6 @@
                             ]
                         },
                         {
-                            "id": 2703,
                             "name": "গফরগাঁও উপজেলা",
                             "name_en": "Gafargaon Upazilla",
                             "unions": [
@@ -21319,7 +20777,6 @@
                             ]
                         },
                         {
-                            "id": 2704,
                             "name": "ঈশ্বরগঞ্জ উপজেলা",
                             "name_en": "Iswarganj Upazilla",
                             "unions": [
@@ -21370,7 +20827,6 @@
                             ]
                         },
                         {
-                            "id": 2705,
                             "name": "নান্দাইল উপজেলা",
                             "name_en": "Nandail Upazilla",
                             "unions": [
@@ -21425,7 +20881,6 @@
                             ]
                         },
                         {
-                            "id": 6172,
                             "name": "তারাকান্দা উপজেলা",
                             "name_en": "Tarakanda Upazilla",
                             "unions": [
@@ -21474,12 +20929,10 @@
                     ]
                 },
                 {
-                    "id": 2257,
                     "name": "জামালপুর জেলা",
                     "name_en": "Jamalpur District",
                     "upazilas": [
                         {
-                            "id": 2390,
                             "name": "জামালপুর সদর উপজেলা",
                             "name_en": "Jamalpursadar Upazilla",
                             "unions": [
@@ -21546,7 +20999,6 @@
                             ]
                         },
                         {
-                            "id": 2393,
                             "name": "মেলান্দহ উপজেলা",
                             "name_en": "Melandah Upazilla",
                             "unions": [
@@ -21597,7 +21049,6 @@
                             ]
                         },
                         {
-                            "id": 2395,
                             "name": "ইসলামপুর উপজেলা",
                             "name_en": "Islampur Upazilla",
                             "unions": [
@@ -21652,7 +21103,6 @@
                             ]
                         },
                         {
-                            "id": 3874,
                             "name": "দেওয়ানগঞ্জ উপজেলা",
                             "name_en": "Dewangonj Upazilla",
                             "unions": [
@@ -21691,7 +21141,6 @@
                             ]
                         },
                         {
-                            "id": 4188,
                             "name": "সরিষাবাড়ী উপজেলা",
                             "name_en": "Sarishabari Upazilla",
                             "unions": [
@@ -21730,7 +21179,6 @@
                             ]
                         },
                         {
-                            "id": 4190,
                             "name": "মাদারগঞ্জ উপজেলা",
                             "name_en": "Madarganj Upazilla",
                             "unions": [
@@ -21765,7 +21213,6 @@
                             ]
                         },
                         {
-                            "id": 4191,
                             "name": "বকশীগঞ্জ উপজেলা",
                             "name_en": "Bokshiganj Upazilla",
                             "unions": [
@@ -21802,12 +21249,10 @@
                     ]
                 },
                 {
-                    "id": 2262,
                     "name": "নেত্রকোণা জেলা",
                     "name_en": "Netrokona District",
                     "upazilas": [
                         {
-                            "id": 2267,
                             "name": "বারহাট্টা উপজেলা",
                             "name_en": "Barhatta Upazilla",
                             "unions": [
@@ -21842,7 +21287,6 @@
                             ]
                         },
                         {
-                            "id": 2268,
                             "name": "দুর্গাপুর উপজেলা",
                             "name_en": "Durgapur Upazilla",
                             "unions": [
@@ -21877,7 +21321,6 @@
                             ]
                         },
                         {
-                            "id": 2269,
                             "name": "কেন্দুয়া উপজেলা",
                             "name_en": "Kendua Upazilla",
                             "unions": [
@@ -21936,7 +21379,6 @@
                             ]
                         },
                         {
-                            "id": 2270,
                             "name": "আটপাড়া উপজেলা",
                             "name_en": "Atpara Upazilla",
                             "unions": [
@@ -21971,7 +21413,6 @@
                             ]
                         },
                         {
-                            "id": 2271,
                             "name": "মদন উপজেলা",
                             "name_en": "Madan Upazilla",
                             "unions": [
@@ -22010,7 +21451,6 @@
                             ]
                         },
                         {
-                            "id": 2272,
                             "name": "খালিয়াজুরী উপজেলা",
                             "name_en": "Khaliajuri Upazilla",
                             "unions": [
@@ -22041,7 +21481,6 @@
                             ]
                         },
                         {
-                            "id": 2273,
                             "name": "কলমাকান্দা উপজেলা",
                             "name_en": "Kalmakanda Upazilla",
                             "unions": [
@@ -22080,7 +21519,6 @@
                             ]
                         },
                         {
-                            "id": 2274,
                             "name": "মোহনগঞ্জ উপজেলা",
                             "name_en": "Mohongonj Upazilla",
                             "unions": [
@@ -22115,7 +21553,6 @@
                             ]
                         },
                         {
-                            "id": 2275,
                             "name": "পূর্বধলা উপজেলা",
                             "name_en": "Purbadhala Upazilla",
                             "unions": [
@@ -22166,7 +21603,6 @@
                             ]
                         },
                         {
-                            "id": 2276,
                             "name": "নেত্রকোণা সদর উপজেলা",
                             "name_en": "Netrokonasadar Upazilla",
                             "unions": [
