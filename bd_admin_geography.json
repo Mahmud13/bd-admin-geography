@@ -117,11 +117,11 @@
                                     "name_en": "Chardighaldi"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "চিনিসপুর",
                                     "name_en": "Chinishpur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "হাজীপুর",
                                     "name_en": "Hajipur"
                                 },
                                 {
@@ -917,7 +917,7 @@
                                     "name_en": "Alirtek"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "কাশীপুর",
                                     "name_en": "Kashipur"
                                 },
                                 {
@@ -925,7 +925,7 @@
                                     "name_en": "Kutubpur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "গোগনগর",
                                     "name_en": "Gognagar"
                                 },
                                 {
@@ -3675,7 +3675,7 @@
                                     "name_en": "Ujani"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "ননীক্ষীর",
                                     "name_en": "Nanikhir"
                                 },
                                 {
@@ -6381,7 +6381,7 @@
                                     "name_en": "Haimchar"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "চরভৈরবী",
                                     "name_en": "Charbhairabi"
                                 }
                             ]
@@ -6399,31 +6399,31 @@
                                     "name_en": "Bitara"
                                 },
                                 {
-                                    "name": "সহদেবপুর",
-                                    "name_en": "Shohodebpureast"
+                                    "name": "সহদেবপুর পূর্ব",
+                                    "name_en": "Shohodebpur East"
                                 },
                                 {
-                                    "name": "সহদেবপুর",
-                                    "name_en": "Shohodebpurwest"
+                                    "name": "সহদেবপুর পশ্চিম",
+                                    "name_en": "Shohodebpur West"
                                 },
                                 {
-                                    "name": "কচুয়া",
-                                    "name_en": "Kachuanorth"
+                                    "name": "কচুয়া উত্তর",
+                                    "name_en": "Kachua North"
                                 },
                                 {
-                                    "name": "কচুয়া",
-                                    "name_en": "Kachuasouth"
+                                    "name": "কচুয়া দক্ষিণ",
+                                    "name_en": "Kachua South"
                                 },
                                 {
                                     "name": "গোহাট",
                                     "name_en": "Gohatnorth"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "কাদলা",
                                     "name_en": "Kadla"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "আসরাফপুর",
                                     "name_en": "Ashrafpur"
                                 },
                                 {
@@ -6435,7 +6435,7 @@
                                     "name_en": "Sachar"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "কড়ইয়া",
                                     "name_en": "Koroia"
                                 }
                             ]
@@ -6569,12 +6569,12 @@
                                     "name_en": "Narayanpur"
                                 },
                                 {
-                                    "name": "উপাদী",
-                                    "name_en": "Upadisouth"
+                                    "name": "উপাদী দক্ষিণ",
+                                    "name_en": "Upadi South"
                                 },
                                 {
-                                    "name": "উপাদী",
-                                    "name_en": "Upadinorth"
+                                    "name": "উপাদী উত্তর",
+                                    "name_en": "Upadi North"
                                 }
                             ]
                         },
@@ -6633,59 +6633,59 @@
                             "name_en": "Matlabnorth Upazilla",
                             "unions": [
                                 {
-                                    "name": "",
+                                    "name": "ষাটনল",
                                     "name_en": "Satnal"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "বাগানবাড়ী",
                                     "name_en": "Banganbari"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "সাদুল্ল্যাপুর",
                                     "name_en": "Sadullapur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "দূর্গাপুর",
                                     "name_en": "Durgapur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "কালাকান্দা",
                                     "name_en": "Kalakanda"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "মোহনপুর",
                                     "name_en": "Mohanpur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "এখলাসপুর",
                                     "name_en": "Eklaspur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "জহিরাবাদ",
                                     "name_en": "Jahirabad"
                                 },
                                 {
-                                    "name": "ফতেহপুর",
-                                    "name_en": "Eastfatehpur"
+                                    "name": "পূর্ব ফতেহপুর",
+                                    "name_en": "East Fatehpur"
                                 },
                                 {
-                                    "name": "ফতেহপুর",
-                                    "name_en": "Westfatehpur"
+                                    "name": "পশ্চিম ফতেহপুর",
+                                    "name_en": "West Fatehpur"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "ফরাজীকান্দি",
                                     "name_en": "Farajikandi"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "ইসলামাবাদ",
                                     "name_en": "Islamabad"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "সুলতানাবাদ",
                                     "name_en": "Sultanabad"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "গজরা",
                                     "name_en": "Gazra"
                                 }
                             ]
@@ -19321,7 +19321,7 @@
                                     "name_en": "Baniachongsouthwest"
                                 },
                                 {
-                                    "name": "",
+                                    "name": "দৌলতপুর",
                                     "name_en": "Daulatpur"
                                 },
                                 {
